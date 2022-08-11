@@ -2,7 +2,7 @@
 
 import tz from "./tz-list.json";
 
-interface TimeZone {
+export interface TimeZone {
   tz: string
   offsetSTD: string
   offsetDST?: string
