@@ -1,0 +1,31 @@
+{
+  "name": "tzlist",
+  "version": "0.0.1",
+  "description": "A time zone list following latest IANA list ",
+  "main": "index.js",
+  "scripts": {
+    "test": "0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maurogava/tzlist.git"
+  },
+  "keywords": [
+    "timezone",
+    "timezones",
+    "tz",
+    "time",
+    "zone",
+    "zones",
+    "list",
+    "data",
+    "iana",
+    "array"
+  ],
+  "author": "Mauro Gava",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maurogava/tzlist/issues"
+  },
+  "homepage": "https://github.com/maurogava/tzlist#readme"
+}
