@@ -1,7 +1,7 @@
 {
-  "name": "@mauromjg/tzlist",
-  "version": "0.0.1",
-  "description": "A time zone list following latest IANA list.",
+  "name": "timezone-data",
+  "version": "0.0.2",
+  "description": "This is a list of time zones from release 2022b of the tz database.",
   "author": "Mauro Gava",
   "license": "MIT",
   "main": "dist/index.js",
