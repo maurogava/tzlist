@@ -1,7 +1,7 @@
 # timezone-data
 This package contains a list of time zones from release [2022b](https://www.iana.org/time-zones) of the IANA tz database. 
 
-Data extracted from [https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)
+Data extracted from [https://en.wikipedia.org/wiki/List_of_tz_database_time_zones](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)
 
 The fields in the array are as follows:
 * `tz` contains the time zone code

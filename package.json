@@ -1,6 +1,6 @@
 {
   "name": "timezone-data",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "This is a list of time zones from release 2022b of the tz database.",
   "author": "Mauro Gava",
   "license": "MIT",

@@ -2,95 +2,81 @@
   {
     "tz": "Africa/Abidjan",
     "offsetSTD": "+00:00",
-    "offsetDST": "+00:00",
     "tzNameSTD": "Greenwich Mean Time"
   },
   {
     "tz": "Africa/Accra",
     "offsetSTD": "+00:00",
-    "offsetDST": "+00:00",
     "tzNameSTD": "Greenwich Mean Time",
     "linkTo": "Africa/Abidjan"
   },
   {
     "tz": "Africa/Addis_Ababa",
     "offsetSTD": "+03:00",
-    "offsetDST": "+03:00",
     "tzNameSTD": "East Africa Time",
     "linkTo": "Africa/Nairobi"
   },
   {
     "tz": "Africa/Algiers",
     "offsetSTD": "+01:00",
-    "offsetDST": "+01:00",
     "tzNameSTD": "Central European Time"
   },
   {
     "tz": "Africa/Asmara",
     "offsetSTD": "+03:00",
-    "offsetDST": "+03:00",
     "tzNameSTD": "East Africa Time",
     "linkTo": "Africa/Nairobi"
   },
   {
     "tz": "Africa/Asmera",
     "offsetSTD": "+03:00",
-    "offsetDST": "+03:00",
     "tzNameSTD": "East Africa Time",
     "linkTo": "Africa/Nairobi"
   },
   {
     "tz": "Africa/Bamako",
     "offsetSTD": "+00:00",
-    "offsetDST": "+00:00",
     "tzNameSTD": "Greenwich Mean Time",
     "linkTo": "Africa/Abidjan"
   },
   {
     "tz": "Africa/Bangui",
     "offsetSTD": "+01:00",
-    "offsetDST": "+01:00",
     "tzNameSTD": "West Africa Time",
     "linkTo": "Africa/Lagos"
   },
   {
     "tz": "Africa/Banjul",
     "offsetSTD": "+00:00",
-    "offsetDST": "+00:00",
     "tzNameSTD": "Greenwich Mean Time",
     "linkTo": "Africa/Abidjan"
   },
   {
     "tz": "Africa/Bissau",
     "offsetSTD": "+00:00",
-    "offsetDST": "+00:00",
     "tzNameSTD": "Greenwich Mean Time"
   },
   {
     "tz": "Africa/Blantyre",
     "offsetSTD": "+02:00",
-    "offsetDST": "+02:00",
     "tzNameSTD": "Central Africa Time",
     "linkTo": "Africa/Maputo"
   },
   {
     "tz": "Africa/Brazzaville",
     "offsetSTD": "+01:00",
-    "offsetDST": "+01:00",
     "tzNameSTD": "West Africa Time",
     "linkTo": "Africa/Lagos"
   },
   {
     "tz": "Africa/Bujumbura",
     "offsetSTD": "+02:00",
-    "offsetDST": "+02:00",
     "tzNameSTD": "Central Africa Time",
     "linkTo": "Africa/Maputo"
   },
   {
     "tz": "Africa/Cairo",
     "offsetSTD": "+02:00",
-    "offsetDST": "+02:00",
     "tzNameSTD": "Eastern European Time"
   },
   {
@@ -108,35 +94,30 @@
   {
     "tz": "Africa/Conakry",
     "offsetSTD": "+00:00",
-    "offsetDST": "+00:00",
     "tzNameSTD": "Greenwich Mean Time",
     "linkTo": "Africa/Abidjan"
   },
   {
     "tz": "Africa/Dakar",
     "offsetSTD": "+00:00",
-    "offsetDST": "+00:00",
     "tzNameSTD": "Greenwich Mean Time",
     "linkTo": "Africa/Abidjan"
   },
   {
     "tz": "Africa/Dar_es_Salaam",
     "offsetSTD": "+03:00",
-    "offsetDST": "+03:00",
     "tzNameSTD": "East Africa Time",
     "linkTo": "Africa/Nairobi"
   },
   {
     "tz": "Africa/Djibouti",
     "offsetSTD": "+03:00",
-    "offsetDST": "+03:00",
     "tzNameSTD": "East Africa Time",
     "linkTo": "Africa/Nairobi"
   },
   {
     "tz": "Africa/Douala",
     "offsetSTD": "+01:00",
-    "offsetDST": "+01:00",
     "tzNameSTD": "West Africa Time",
     "linkTo": "Africa/Lagos"
   },
@@ -148,213 +129,181 @@
   {
     "tz": "Africa/Freetown",
     "offsetSTD": "+00:00",
-    "offsetDST": "+00:00",
     "tzNameSTD": "Greenwich Mean Time",
     "linkTo": "Africa/Abidjan"
   },
   {
     "tz": "Africa/Gaborone",
     "offsetSTD": "+02:00",
-    "offsetDST": "+02:00",
     "tzNameSTD": "Central Africa Time",
     "linkTo": "Africa/Maputo"
   },
   {
     "tz": "Africa/Harare",
     "offsetSTD": "+02:00",
-    "offsetDST": "+02:00",
     "tzNameSTD": "Central Africa Time",
     "linkTo": "Africa/Maputo"
   },
   {
     "tz": "Africa/Johannesburg",
     "offsetSTD": "+02:00",
-    "offsetDST": "+02:00",
     "tzNameSTD": "South African Standard Time"
   },
   {
     "tz": "Africa/Juba",
     "offsetSTD": "+02:00",
-    "offsetDST": "+02:00",
     "tzNameSTD": "Central Africa Time"
   },
   {
     "tz": "Africa/Kampala",
     "offsetSTD": "+03:00",
-    "offsetDST": "+03:00",
     "tzNameSTD": "East Africa Time",
     "linkTo": "Africa/Nairobi"
   },
   {
     "tz": "Africa/Khartoum",
     "offsetSTD": "+02:00",
-    "offsetDST": "+02:00",
     "tzNameSTD": "Central Africa Time"
   },
   {
     "tz": "Africa/Kigali",
     "offsetSTD": "+02:00",
-    "offsetDST": "+02:00",
     "tzNameSTD": "Central Africa Time",
     "linkTo": "Africa/Maputo"
   },
   {
     "tz": "Africa/Kinshasa",
     "offsetSTD": "+01:00",
-    "offsetDST": "+01:00",
     "tzNameSTD": "West Africa Time",
     "linkTo": "Africa/Lagos"
   },
   {
     "tz": "Africa/Lagos",
     "offsetSTD": "+01:00",
-    "offsetDST": "+01:00",
     "tzNameSTD": "West Africa Time"
   },
   {
     "tz": "Africa/Libreville",
     "offsetSTD": "+01:00",
-    "offsetDST": "+01:00",
     "tzNameSTD": "West Africa Time",
     "linkTo": "Africa/Lagos"
   },
   {
     "tz": "Africa/Lome",
     "offsetSTD": "+00:00",
-    "offsetDST": "+00:00",
     "tzNameSTD": "Greenwich Mean Time",
     "linkTo": "Africa/Abidjan"
   },
   {
     "tz": "Africa/Luanda",
     "offsetSTD": "+01:00",
-    "offsetDST": "+01:00",
     "tzNameSTD": "West Africa Time",
     "linkTo": "Africa/Lagos"
   },
   {
     "tz": "Africa/Lubumbashi",
     "offsetSTD": "+02:00",
-    "offsetDST": "+02:00",
     "tzNameSTD": "Central Africa Time",
     "linkTo": "Africa/Maputo"
   },
   {
     "tz": "Africa/Lusaka",
     "offsetSTD": "+02:00",
-    "offsetDST": "+02:00",
     "tzNameSTD": "Central Africa Time",
     "linkTo": "Africa/Maputo"
   },
   {
     "tz": "Africa/Malabo",
     "offsetSTD": "+01:00",
-    "offsetDST": "+01:00",
     "tzNameSTD": "West Africa Time",
     "linkTo": "Africa/Lagos"
   },
   {
     "tz": "Africa/Maputo",
     "offsetSTD": "+02:00",
-    "offsetDST": "+02:00",
     "tzNameSTD": "Central Africa Time"
   },
   {
     "tz": "Africa/Maseru",
     "offsetSTD": "+02:00",
-    "offsetDST": "+02:00",
     "tzNameSTD": "South African Standard Time",
     "linkTo": "Africa/Johannesburg"
   },
   {
     "tz": "Africa/Mbabane",
     "offsetSTD": "+02:00",
-    "offsetDST": "+02:00",
     "tzNameSTD": "South African Standard Time",
     "linkTo": "Africa/Johannesburg"
   },
   {
     "tz": "Africa/Mogadishu",
     "offsetSTD": "+03:00",
-    "offsetDST": "+03:00",
     "tzNameSTD": "East Africa Time",
     "linkTo": "Africa/Nairobi"
   },
   {
     "tz": "Africa/Monrovia",
     "offsetSTD": "+00:00",
-    "offsetDST": "+00:00",
     "tzNameSTD": "Greenwich Mean Time"
   },
   {
     "tz": "Africa/Nairobi",
     "offsetSTD": "+03:00",
-    "offsetDST": "+03:00",
     "tzNameSTD": "East Africa Time"
   },
   {
     "tz": "Africa/Ndjamena",
     "offsetSTD": "+01:00",
-    "offsetDST": "+01:00",
     "tzNameSTD": "West Africa Time"
   },
   {
     "tz": "Africa/Niamey",
     "offsetSTD": "+01:00",
-    "offsetDST": "+01:00",
     "tzNameSTD": "West Africa Time",
     "linkTo": "Africa/Lagos"
   },
   {
     "tz": "Africa/Nouakchott",
     "offsetSTD": "+00:00",
-    "offsetDST": "+00:00",
     "tzNameSTD": "Greenwich Mean Time",
     "linkTo": "Africa/Abidjan"
   },
   {
     "tz": "Africa/Ouagadougou",
     "offsetSTD": "+00:00",
-    "offsetDST": "+00:00",
     "tzNameSTD": "Greenwich Mean Time",
     "linkTo": "Africa/Abidjan"
   },
   {
     "tz": "Africa/Porto-Novo",
     "offsetSTD": "+01:00",
-    "offsetDST": "+01:00",
     "tzNameSTD": "West Africa Time",
     "linkTo": "Africa/Lagos"
   },
   {
     "tz": "Africa/Sao_Tome",
     "offsetSTD": "+00:00",
-    "offsetDST": "+00:00",
     "tzNameSTD": "Greenwich Mean Time"
   },
   {
     "tz": "Africa/Timbuktu",
     "offsetSTD": "+00:00",
-    "offsetDST": "+00:00",
     "tzNameSTD": "Greenwich Mean Time",
     "linkTo": "Africa/Abidjan"
   },
   {
     "tz": "Africa/Tripoli",
     "offsetSTD": "+02:00",
-    "offsetDST": "+02:00",
     "tzNameSTD": "Eastern European Time"
   },
   {
     "tz": "Africa/Tunis",
     "offsetSTD": "+01:00",
-    "offsetDST": "+01:00",
     "tzNameSTD": "Central European Time"
   },
   {
     "tz": "Africa/Windhoek",
     "offsetSTD": "+02:00",
-    "offsetDST": "+02:00",
     "tzNameSTD": "Central Africa Time"
   },
   {
@@ -374,92 +323,75 @@
   {
     "tz": "America/Anguilla",
     "offsetSTD": "-04:00",
-    "offsetDST": "-04:00",
     "tzNameSTD": "Atlantic Standard Time",
     "linkTo": "America/Puerto_Rico"
   },
   {
     "tz": "America/Antigua",
     "offsetSTD": "-04:00",
-    "offsetDST": "-04:00",
     "tzNameSTD": "Atlantic Standard Time",
     "linkTo": "America/Puerto_Rico"
   },
   {
     "tz": "America/Araguaina",
-    "offsetSTD": "-03:00",
-    "offsetDST": "-03:00"
+    "offsetSTD": "-03:00"
   },
   {
     "tz": "America/Argentina/Buenos_Aires",
-    "offsetSTD": "-03:00",
-    "offsetDST": "-03:00"
+    "offsetSTD": "-03:00"
   },
   {
     "tz": "America/Argentina/Catamarca",
-    "offsetSTD": "-03:00",
-    "offsetDST": "-03:00"
+    "offsetSTD": "-03:00"
   },
   {
     "tz": "America/Argentina/ComodRivadavia",
     "offsetSTD": "-03:00",
-    "offsetDST": "-03:00",
     "linkTo": "America/Argentina/Catamarca"
   },
   {
     "tz": "America/Argentina/Cordoba",
-    "offsetSTD": "-03:00",
-    "offsetDST": "-03:00"
+    "offsetSTD": "-03:00"
   },
   {
     "tz": "America/Argentina/Jujuy",
-    "offsetSTD": "-03:00",
-    "offsetDST": "-03:00"
+    "offsetSTD": "-03:00"
   },
   {
     "tz": "America/Argentina/La_Rioja",
-    "offsetSTD": "-03:00",
-    "offsetDST": "-03:00"
+    "offsetSTD": "-03:00"
   },
   {
     "tz": "America/Argentina/Mendoza",
-    "offsetSTD": "-03:00",
-    "offsetDST": "-03:00"
+    "offsetSTD": "-03:00"
   },
   {
     "tz": "America/Argentina/Rio_Gallegos",
-    "offsetSTD": "-03:00",
-    "offsetDST": "-03:00"
+    "offsetSTD": "-03:00"
   },
   {
     "tz": "America/Argentina/Salta",
-    "offsetSTD": "-03:00",
-    "offsetDST": "-03:00"
+    "offsetSTD": "-03:00"
   },
   {
     "tz": "America/Argentina/San_Juan",
-    "offsetSTD": "-03:00",
-    "offsetDST": "-03:00"
+    "offsetSTD": "-03:00"
   },
   {
     "tz": "America/Argentina/San_Luis",
-    "offsetSTD": "-03:00",
-    "offsetDST": "-03:00"
+    "offsetSTD": "-03:00"
   },
   {
     "tz": "America/Argentina/Tucuman",
-    "offsetSTD": "-03:00",
-    "offsetDST": "-03:00"
+    "offsetSTD": "-03:00"
   },
   {
     "tz": "America/Argentina/Ushuaia",
-    "offsetSTD": "-03:00",
-    "offsetDST": "-03:00"
+    "offsetSTD": "-03:00"
   },
   {
     "tz": "America/Aruba",
     "offsetSTD": "-04:00",
-    "offsetDST": "-04:00",
     "tzNameSTD": "Atlantic Standard Time",
     "linkTo": "America/Puerto_Rico"
   },
@@ -471,7 +403,6 @@
   {
     "tz": "America/Atikokan",
     "offsetSTD": "-05:00",
-    "offsetDST": "-05:00",
     "tzNameSTD": "Eastern Standard Time",
     "linkTo": "America/Panama"
   },
@@ -485,8 +416,7 @@
   },
   {
     "tz": "America/Bahia",
-    "offsetSTD": "-03:00",
-    "offsetDST": "-03:00"
+    "offsetSTD": "-03:00"
   },
   {
     "tz": "America/Bahia_Banderas",
@@ -498,36 +428,30 @@
   {
     "tz": "America/Barbados",
     "offsetSTD": "-04:00",
-    "offsetDST": "-04:00",
     "tzNameSTD": "Atlantic Standard Time"
   },
   {
     "tz": "America/Belem",
-    "offsetSTD": "-03:00",
-    "offsetDST": "-03:00"
+    "offsetSTD": "-03:00"
   },
   {
     "tz": "America/Belize",
     "offsetSTD": "-06:00",
-    "offsetDST": "-06:00",
     "tzNameSTD": "Central Standard Time"
   },
   {
     "tz": "America/Blanc-Sablon",
     "offsetSTD": "-04:00",
-    "offsetDST": "-04:00",
     "tzNameSTD": "Atlantic Standard Time",
     "linkTo": "America/Puerto_Rico"
   },
   {
     "tz": "America/Boa_Vista",
-    "offsetSTD": "-04:00",
-    "offsetDST": "-04:00"
+    "offsetSTD": "-04:00"
   },
   {
     "tz": "America/Bogota",
-    "offsetSTD": "-05:00",
-    "offsetDST": "-05:00"
+    "offsetSTD": "-05:00"
   },
   {
     "tz": "America/Boise",
@@ -539,7 +463,6 @@
   {
     "tz": "America/Buenos_Aires",
     "offsetSTD": "-03:00",
-    "offsetDST": "-03:00",
     "linkTo": "America/Argentina/Buenos_Aires"
   },
   {
@@ -551,35 +474,29 @@
   },
   {
     "tz": "America/Campo_Grande",
-    "offsetSTD": "-04:00",
-    "offsetDST": "-04:00"
+    "offsetSTD": "-04:00"
   },
   {
     "tz": "America/Cancun",
     "offsetSTD": "-05:00",
-    "offsetDST": "-05:00",
     "tzNameSTD": "Eastern Standard Time"
   },
   {
     "tz": "America/Caracas",
-    "offsetSTD": "-04:00",
-    "offsetDST": "-04:00"
+    "offsetSTD": "-04:00"
   },
   {
     "tz": "America/Catamarca",
     "offsetSTD": "-03:00",
-    "offsetDST": "-03:00",
     "linkTo": "America/Argentina/Catamarca"
   },
   {
     "tz": "America/Cayenne",
-    "offsetSTD": "-03:00",
-    "offsetDST": "-03:00"
+    "offsetSTD": "-03:00"
   },
   {
     "tz": "America/Cayman",
     "offsetSTD": "-05:00",
-    "offsetDST": "-05:00",
     "tzNameSTD": "Eastern Standard Time",
     "linkTo": "America/Panama"
   },
@@ -600,57 +517,48 @@
   {
     "tz": "America/Coral_Harbour",
     "offsetSTD": "-05:00",
-    "offsetDST": "-05:00",
     "tzNameSTD": "Eastern Standard Time",
     "linkTo": "America/Panama"
   },
   {
     "tz": "America/Cordoba",
     "offsetSTD": "-03:00",
-    "offsetDST": "-03:00",
     "linkTo": "America/Argentina/Cordoba"
   },
   {
     "tz": "America/Costa_Rica",
     "offsetSTD": "-06:00",
-    "offsetDST": "-06:00",
     "tzNameSTD": "Central Standard Time"
   },
   {
     "tz": "America/Creston",
     "offsetSTD": "-07:00",
-    "offsetDST": "-07:00",
     "tzNameSTD": "Mountain Standard Time",
     "linkTo": "America/Phoenix"
   },
   {
     "tz": "America/Cuiaba",
-    "offsetSTD": "-04:00",
-    "offsetDST": "-04:00"
+    "offsetSTD": "-04:00"
   },
   {
     "tz": "America/Curacao",
     "offsetSTD": "-04:00",
-    "offsetDST": "-04:00",
     "tzNameSTD": "Atlantic Standard Time",
     "linkTo": "America/Puerto_Rico"
   },
   {
     "tz": "America/Danmarkshavn",
     "offsetSTD": "+00:00",
-    "offsetDST": "+00:00",
     "tzNameSTD": "Greenwich Mean Time"
   },
   {
     "tz": "America/Dawson",
     "offsetSTD": "-07:00",
-    "offsetDST": "-07:00",
     "tzNameSTD": "Mountain Standard Time"
   },
   {
     "tz": "America/Dawson_Creek",
     "offsetSTD": "-07:00",
-    "offsetDST": "-07:00",
     "tzNameSTD": "Mountain Standard Time"
   },
   {
@@ -670,7 +578,6 @@
   {
     "tz": "America/Dominica",
     "offsetSTD": "-04:00",
-    "offsetDST": "-04:00",
     "tzNameSTD": "Atlantic Standard Time",
     "linkTo": "America/Puerto_Rico"
   },
@@ -683,13 +590,11 @@
   },
   {
     "tz": "America/Eirunepe",
-    "offsetSTD": "-05:00",
-    "offsetDST": "-05:00"
+    "offsetSTD": "-05:00"
   },
   {
     "tz": "America/El_Salvador",
     "offsetSTD": "-06:00",
-    "offsetDST": "-06:00",
     "tzNameSTD": "Central Standard Time"
   },
   {
@@ -703,7 +608,6 @@
   {
     "tz": "America/Fort_Nelson",
     "offsetSTD": "-07:00",
-    "offsetDST": "-07:00",
     "tzNameSTD": "Mountain Standard Time"
   },
   {
@@ -716,8 +620,7 @@
   },
   {
     "tz": "America/Fortaleza",
-    "offsetSTD": "-03:00",
-    "offsetDST": "-03:00"
+    "offsetSTD": "-03:00"
   },
   {
     "tz": "America/Glace_Bay",
@@ -749,32 +652,27 @@
   {
     "tz": "America/Grenada",
     "offsetSTD": "-04:00",
-    "offsetDST": "-04:00",
     "tzNameSTD": "Atlantic Standard Time",
     "linkTo": "America/Puerto_Rico"
   },
   {
     "tz": "America/Guadeloupe",
     "offsetSTD": "-04:00",
-    "offsetDST": "-04:00",
     "tzNameSTD": "Atlantic Standard Time",
     "linkTo": "America/Puerto_Rico"
   },
   {
     "tz": "America/Guatemala",
     "offsetSTD": "-06:00",
-    "offsetDST": "-06:00",
     "tzNameSTD": "Central Standard Time"
   },
   {
     "tz": "America/Guayaquil",
-    "offsetSTD": "-05:00",
-    "offsetDST": "-05:00"
+    "offsetSTD": "-05:00"
   },
   {
     "tz": "America/Guyana",
-    "offsetSTD": "-04:00",
-    "offsetDST": "-04:00"
+    "offsetSTD": "-04:00"
   },
   {
     "tz": "America/Halifax",
@@ -793,7 +691,6 @@
   {
     "tz": "America/Hermosillo",
     "offsetSTD": "-07:00",
-    "offsetDST": "-07:00",
     "tzNameSTD": "Mountain Standard Time"
   },
   {
@@ -877,13 +774,11 @@
   {
     "tz": "America/Jamaica",
     "offsetSTD": "-05:00",
-    "offsetDST": "-05:00",
     "tzNameSTD": "Eastern Standard Time"
   },
   {
     "tz": "America/Jujuy",
     "offsetSTD": "-03:00",
-    "offsetDST": "-03:00",
     "linkTo": "America/Argentina/Jujuy"
   },
   {
@@ -918,19 +813,16 @@
   {
     "tz": "America/Kralendijk",
     "offsetSTD": "-04:00",
-    "offsetDST": "-04:00",
     "tzNameSTD": "Atlantic Standard Time",
     "linkTo": "America/Puerto_Rico"
   },
   {
     "tz": "America/La_Paz",
-    "offsetSTD": "-04:00",
-    "offsetDST": "-04:00"
+    "offsetSTD": "-04:00"
   },
   {
     "tz": "America/Lima",
-    "offsetSTD": "-05:00",
-    "offsetDST": "-05:00"
+    "offsetSTD": "-05:00"
   },
   {
     "tz": "America/Los_Angeles",
@@ -950,37 +842,31 @@
   {
     "tz": "America/Lower_Princes",
     "offsetSTD": "-04:00",
-    "offsetDST": "-04:00",
     "tzNameSTD": "Atlantic Standard Time",
     "linkTo": "America/Puerto_Rico"
   },
   {
     "tz": "America/Maceio",
-    "offsetSTD": "-03:00",
-    "offsetDST": "-03:00"
+    "offsetSTD": "-03:00"
   },
   {
     "tz": "America/Managua",
     "offsetSTD": "-06:00",
-    "offsetDST": "-06:00",
     "tzNameSTD": "Central Standard Time"
   },
   {
     "tz": "America/Manaus",
-    "offsetSTD": "-04:00",
-    "offsetDST": "-04:00"
+    "offsetSTD": "-04:00"
   },
   {
     "tz": "America/Marigot",
     "offsetSTD": "-04:00",
-    "offsetDST": "-04:00",
     "tzNameSTD": "Atlantic Standard Time",
     "linkTo": "America/Puerto_Rico"
   },
   {
     "tz": "America/Martinique",
     "offsetSTD": "-04:00",
-    "offsetDST": "-04:00",
     "tzNameSTD": "Atlantic Standard Time"
   },
   {
@@ -1000,7 +886,6 @@
   {
     "tz": "America/Mendoza",
     "offsetSTD": "-03:00",
-    "offsetDST": "-03:00",
     "linkTo": "America/Argentina/Mendoza"
   },
   {
@@ -1052,8 +937,7 @@
   },
   {
     "tz": "America/Montevideo",
-    "offsetSTD": "-03:00",
-    "offsetDST": "-03:00"
+    "offsetSTD": "-03:00"
   },
   {
     "tz": "America/Montreal",
@@ -1066,7 +950,6 @@
   {
     "tz": "America/Montserrat",
     "offsetSTD": "-04:00",
-    "offsetDST": "-04:00",
     "tzNameSTD": "Atlantic Standard Time",
     "linkTo": "America/Puerto_Rico"
   },
@@ -1101,8 +984,7 @@
   },
   {
     "tz": "America/Noronha",
-    "offsetSTD": "-02:00",
-    "offsetDST": "-02:00"
+    "offsetSTD": "-02:00"
   },
   {
     "tz": "America/North_Dakota/Beulah",
@@ -1140,7 +1022,6 @@
   {
     "tz": "America/Panama",
     "offsetSTD": "-05:00",
-    "offsetDST": "-05:00",
     "tzNameSTD": "Eastern Standard Time"
   },
   {
@@ -1152,13 +1033,11 @@
   },
   {
     "tz": "America/Paramaribo",
-    "offsetSTD": "-03:00",
-    "offsetDST": "-03:00"
+    "offsetSTD": "-03:00"
   },
   {
     "tz": "America/Phoenix",
     "offsetSTD": "-07:00",
-    "offsetDST": "-07:00",
     "tzNameSTD": "Mountain Standard Time"
   },
   {
@@ -1171,31 +1050,26 @@
   {
     "tz": "America/Port_of_Spain",
     "offsetSTD": "-04:00",
-    "offsetDST": "-04:00",
     "tzNameSTD": "Atlantic Standard Time",
     "linkTo": "America/Puerto_Rico"
   },
   {
     "tz": "America/Porto_Acre",
     "offsetSTD": "-05:00",
-    "offsetDST": "-05:00",
     "linkTo": "America/Rio_Branco"
   },
   {
     "tz": "America/Porto_Velho",
-    "offsetSTD": "-04:00",
-    "offsetDST": "-04:00"
+    "offsetSTD": "-04:00"
   },
   {
     "tz": "America/Puerto_Rico",
     "offsetSTD": "-04:00",
-    "offsetDST": "-04:00",
     "tzNameSTD": "Atlantic Standard Time"
   },
   {
     "tz": "America/Punta_Arenas",
     "offsetSTD": "-03:00",
-    "offsetDST": "-03:00",
     "linkTo": "Magallanes Region"
   },
   {
@@ -1214,13 +1088,11 @@
   },
   {
     "tz": "America/Recife",
-    "offsetSTD": "-03:00",
-    "offsetDST": "-03:00"
+    "offsetSTD": "-03:00"
   },
   {
     "tz": "America/Regina",
     "offsetSTD": "-06:00",
-    "offsetDST": "-06:00",
     "tzNameSTD": "Central Standard Time"
   },
   {
@@ -1232,13 +1104,11 @@
   },
   {
     "tz": "America/Rio_Branco",
-    "offsetSTD": "-05:00",
-    "offsetDST": "-05:00"
+    "offsetSTD": "-05:00"
   },
   {
     "tz": "America/Rosario",
     "offsetSTD": "-03:00",
-    "offsetDST": "-03:00",
     "linkTo": "America/Argentina/Cordoba"
   },
   {
@@ -1251,8 +1121,7 @@
   },
   {
     "tz": "America/Santarem",
-    "offsetSTD": "-03:00",
-    "offsetDST": "-03:00"
+    "offsetSTD": "-03:00"
   },
   {
     "tz": "America/Santiago",
@@ -1262,13 +1131,11 @@
   {
     "tz": "America/Santo_Domingo",
     "offsetSTD": "-04:00",
-    "offsetDST": "-04:00",
     "tzNameSTD": "Atlantic Standard Time"
   },
   {
     "tz": "America/Sao_Paulo",
-    "offsetSTD": "-03:00",
-    "offsetDST": "-03:00"
+    "offsetSTD": "-03:00"
   },
   {
     "tz": "America/Scoresbysund",
@@ -1293,7 +1160,6 @@
   {
     "tz": "America/St_Barthelemy",
     "offsetSTD": "-04:00",
-    "offsetDST": "-04:00",
     "tzNameSTD": "Atlantic Standard Time",
     "linkTo": "America/Puerto_Rico"
   },
@@ -1307,41 +1173,35 @@
   {
     "tz": "America/St_Kitts",
     "offsetSTD": "-04:00",
-    "offsetDST": "-04:00",
     "tzNameSTD": "Atlantic Standard Time",
     "linkTo": "America/Puerto_Rico"
   },
   {
     "tz": "America/St_Lucia",
     "offsetSTD": "-04:00",
-    "offsetDST": "-04:00",
     "tzNameSTD": "Atlantic Standard Time",
     "linkTo": "America/Puerto_Rico"
   },
   {
     "tz": "America/St_Thomas",
     "offsetSTD": "-04:00",
-    "offsetDST": "-04:00",
     "tzNameSTD": "Atlantic Standard Time",
     "linkTo": "America/Puerto_Rico"
   },
   {
     "tz": "America/St_Vincent",
     "offsetSTD": "-04:00",
-    "offsetDST": "-04:00",
     "tzNameSTD": "Atlantic Standard Time",
     "linkTo": "America/Puerto_Rico"
   },
   {
     "tz": "America/Swift_Current",
     "offsetSTD": "-06:00",
-    "offsetDST": "-06:00",
     "tzNameSTD": "Central Standard Time"
   },
   {
     "tz": "America/Tegucigalpa",
     "offsetSTD": "-06:00",
-    "offsetDST": "-06:00",
     "tzNameSTD": "Central Standard Time"
   },
   {
@@ -1375,7 +1235,6 @@
   {
     "tz": "America/Tortola",
     "offsetSTD": "-04:00",
-    "offsetDST": "-04:00",
     "tzNameSTD": "Atlantic Standard Time",
     "linkTo": "America/Puerto_Rico"
   },
@@ -1389,14 +1248,12 @@
   {
     "tz": "America/Virgin",
     "offsetSTD": "-04:00",
-    "offsetDST": "-04:00",
     "tzNameSTD": "Atlantic Standard Time",
     "linkTo": "America/Puerto_Rico"
   },
   {
     "tz": "America/Whitehorse",
     "offsetSTD": "-07:00",
-    "offsetDST": "-07:00",
     "tzNameSTD": "Mountain Standard Time"
   },
   {
@@ -1422,18 +1279,15 @@
   },
   {
     "tz": "Antarctica/Casey",
-    "offsetSTD": "+11:00",
-    "offsetDST": "+11:00"
+    "offsetSTD": "+11:00"
   },
   {
     "tz": "Antarctica/Davis",
-    "offsetSTD": "+07:00",
-    "offsetDST": "+07:00"
+    "offsetSTD": "+07:00"
   },
   {
     "tz": "Antarctica/DumontDUrville",
     "offsetSTD": "+10:00",
-    "offsetDST": "+10:00",
     "linkTo": "Pacific/Port_Moresby"
   },
   {
@@ -1445,8 +1299,7 @@
   },
   {
     "tz": "Antarctica/Mawson",
-    "offsetSTD": "+05:00",
-    "offsetDST": "+05:00"
+    "offsetSTD": "+05:00"
   },
   {
     "tz": "Antarctica/McMurdo",
@@ -1459,13 +1312,11 @@
   {
     "tz": "Antarctica/Palmer",
     "offsetSTD": "-03:00",
-    "offsetDST": "-03:00",
     "linkTo": "Chilean Antarctica Region"
   },
   {
     "tz": "Antarctica/Rothera",
-    "offsetSTD": "-03:00",
-    "offsetDST": "-03:00"
+    "offsetSTD": "-03:00"
   },
   {
     "tz": "Antarctica/South_Pole",
@@ -1478,7 +1329,6 @@
   {
     "tz": "Antarctica/Syowa",
     "offsetSTD": "+03:00",
-    "offsetDST": "+03:00",
     "linkTo": "Asia/Riyadh"
   },
   {
@@ -1490,7 +1340,6 @@
   {
     "tz": "Antarctica/Vostok",
     "offsetSTD": "+06:00",
-    "offsetDST": "+06:00",
     "linkTo": "Asia/Urumqi"
   },
   {
@@ -1504,13 +1353,11 @@
   {
     "tz": "Asia/Aden",
     "offsetSTD": "+03:00",
-    "offsetDST": "+03:00",
     "linkTo": "Asia/Riyadh"
   },
   {
     "tz": "Asia/Almaty",
-    "offsetSTD": "+06:00",
-    "offsetDST": "+06:00"
+    "offsetSTD": "+06:00"
   },
   {
     "tz": "Asia/Amman",
@@ -1521,60 +1368,49 @@
   },
   {
     "tz": "Asia/Anadyr",
-    "offsetSTD": "+12:00",
-    "offsetDST": "+12:00"
+    "offsetSTD": "+12:00"
   },
   {
     "tz": "Asia/Aqtau",
-    "offsetSTD": "+05:00",
-    "offsetDST": "+05:00"
+    "offsetSTD": "+05:00"
   },
   {
     "tz": "Asia/Aqtobe",
-    "offsetSTD": "+05:00",
-    "offsetDST": "+05:00"
+    "offsetSTD": "+05:00"
   },
   {
     "tz": "Asia/Ashgabat",
-    "offsetSTD": "+05:00",
-    "offsetDST": "+05:00"
+    "offsetSTD": "+05:00"
   },
   {
     "tz": "Asia/Ashkhabad",
     "offsetSTD": "+05:00",
-    "offsetDST": "+05:00",
     "linkTo": "Asia/Ashgabat"
   },
   {
     "tz": "Asia/Atyrau",
-    "offsetSTD": "+05:00",
-    "offsetDST": "+05:00"
+    "offsetSTD": "+05:00"
   },
   {
     "tz": "Asia/Baghdad",
-    "offsetSTD": "+03:00",
-    "offsetDST": "+03:00"
+    "offsetSTD": "+03:00"
   },
   {
     "tz": "Asia/Bahrain",
     "offsetSTD": "+03:00",
-    "offsetDST": "+03:00",
     "linkTo": "Asia/Qatar"
   },
   {
     "tz": "Asia/Baku",
-    "offsetSTD": "+04:00",
-    "offsetDST": "+04:00"
+    "offsetSTD": "+04:00"
   },
   {
     "tz": "Asia/Bangkok",
-    "offsetSTD": "+07:00",
-    "offsetDST": "+07:00"
+    "offsetSTD": "+07:00"
   },
   {
     "tz": "Asia/Barnaul",
-    "offsetSTD": "+07:00",
-    "offsetDST": "+07:00"
+    "offsetSTD": "+07:00"
   },
   {
     "tz": "Asia/Beirut",
@@ -1585,55 +1421,46 @@
   },
   {
     "tz": "Asia/Bishkek",
-    "offsetSTD": "+06:00",
-    "offsetDST": "+06:00"
+    "offsetSTD": "+06:00"
   },
   {
     "tz": "Asia/Brunei",
     "offsetSTD": "+08:00",
-    "offsetDST": "+08:00",
     "linkTo": "Asia/Kuching"
   },
   {
     "tz": "Asia/Calcutta",
     "offsetSTD": "+05:30",
-    "offsetDST": "+05:30",
     "tzNameSTD": "Indian Standard Time",
     "linkTo": "Asia/Kolkata"
   },
   {
     "tz": "Asia/Chita",
-    "offsetSTD": "+09:00",
-    "offsetDST": "+09:00"
+    "offsetSTD": "+09:00"
   },
   {
     "tz": "Asia/Choibalsan",
-    "offsetSTD": "+08:00",
-    "offsetDST": "+08:00"
+    "offsetSTD": "+08:00"
   },
   {
     "tz": "Asia/Chongqing",
     "offsetSTD": "+08:00",
-    "offsetDST": "+08:00",
     "tzNameSTD": "China Standard Time",
     "linkTo": "Asia/Shanghai"
   },
   {
     "tz": "Asia/Chungking",
     "offsetSTD": "+08:00",
-    "offsetDST": "+08:00",
     "tzNameSTD": "China Standard Time",
     "linkTo": "Asia/Shanghai"
   },
   {
     "tz": "Asia/Colombo",
-    "offsetSTD": "+05:30",
-    "offsetDST": "+05:30"
+    "offsetSTD": "+05:30"
   },
   {
     "tz": "Asia/Dacca",
     "offsetSTD": "+06:00",
-    "offsetDST": "+06:00",
     "linkTo": "Asia/Dhaka"
   },
   {
@@ -1645,23 +1472,19 @@
   },
   {
     "tz": "Asia/Dhaka",
-    "offsetSTD": "+06:00",
-    "offsetDST": "+06:00"
+    "offsetSTD": "+06:00"
   },
   {
     "tz": "Asia/Dili",
-    "offsetSTD": "+09:00",
-    "offsetDST": "+09:00"
+    "offsetSTD": "+09:00"
   },
   {
     "tz": "Asia/Dubai",
-    "offsetSTD": "+04:00",
-    "offsetDST": "+04:00"
+    "offsetSTD": "+04:00"
   },
   {
     "tz": "Asia/Dushanbe",
-    "offsetSTD": "+05:00",
-    "offsetDST": "+05:00"
+    "offsetSTD": "+05:00"
   },
   {
     "tz": "Asia/Famagusta",
@@ -1680,7 +1503,6 @@
   {
     "tz": "Asia/Harbin",
     "offsetSTD": "+08:00",
-    "offsetDST": "+08:00",
     "tzNameSTD": "China Standard Time",
     "linkTo": "Asia/Shanghai"
   },
@@ -1693,41 +1515,34 @@
   },
   {
     "tz": "Asia/Ho_Chi_Minh",
-    "offsetSTD": "+07:00",
-    "offsetDST": "+07:00"
+    "offsetSTD": "+07:00"
   },
   {
     "tz": "Asia/Hong_Kong",
     "offsetSTD": "+08:00",
-    "offsetDST": "+08:00",
     "tzNameSTD": "Hong Kong Time"
   },
   {
     "tz": "Asia/Hovd",
-    "offsetSTD": "+07:00",
-    "offsetDST": "+07:00"
+    "offsetSTD": "+07:00"
   },
   {
     "tz": "Asia/Irkutsk",
-    "offsetSTD": "+08:00",
-    "offsetDST": "+08:00"
+    "offsetSTD": "+08:00"
   },
   {
     "tz": "Asia/Istanbul",
     "offsetSTD": "+03:00",
-    "offsetDST": "+03:00",
     "linkTo": "Europe/Istanbul"
   },
   {
     "tz": "Asia/Jakarta",
     "offsetSTD": "+07:00",
-    "offsetDST": "+07:00",
     "tzNameSTD": "Western Indonesia Time"
   },
   {
     "tz": "Asia/Jayapura",
     "offsetSTD": "+09:00",
-    "offsetDST": "+09:00",
     "tzNameSTD": "Eastern Indonesia Time"
   },
   {
@@ -1739,105 +1554,87 @@
   },
   {
     "tz": "Asia/Kabul",
-    "offsetSTD": "+04:30",
-    "offsetDST": "+04:30"
+    "offsetSTD": "+04:30"
   },
   {
     "tz": "Asia/Kamchatka",
-    "offsetSTD": "+12:00",
-    "offsetDST": "+12:00"
+    "offsetSTD": "+12:00"
   },
   {
     "tz": "Asia/Karachi",
     "offsetSTD": "+05:00",
-    "offsetDST": "+05:00",
     "tzNameSTD": "Pakistan Standard Time"
   },
   {
     "tz": "Asia/Kashgar",
     "offsetSTD": "+06:00",
-    "offsetDST": "+06:00",
     "linkTo": "Asia/Urumqi"
   },
   {
     "tz": "Asia/Kathmandu",
-    "offsetSTD": "+05:45",
-    "offsetDST": "+05:45"
+    "offsetSTD": "+05:45"
   },
   {
     "tz": "Asia/Katmandu",
     "offsetSTD": "+05:45",
-    "offsetDST": "+05:45",
     "linkTo": "Asia/Kathmandu"
   },
   {
     "tz": "Asia/Khandyga",
-    "offsetSTD": "+09:00",
-    "offsetDST": "+09:00"
+    "offsetSTD": "+09:00"
   },
   {
     "tz": "Asia/Kolkata",
     "offsetSTD": "+05:30",
-    "offsetDST": "+05:30",
     "tzNameSTD": "Indian Standard Time",
     "linkTo": "Time in India"
   },
   {
     "tz": "Asia/Krasnoyarsk",
-    "offsetSTD": "+07:00",
-    "offsetDST": "+07:00"
+    "offsetSTD": "+07:00"
   },
   {
     "tz": "Asia/Kuala_Lumpur",
     "offsetSTD": "+08:00",
-    "offsetDST": "+08:00",
     "linkTo": "Asia/Singapore"
   },
   {
     "tz": "Asia/Kuching",
-    "offsetSTD": "+08:00",
-    "offsetDST": "+08:00"
+    "offsetSTD": "+08:00"
   },
   {
     "tz": "Asia/Kuwait",
     "offsetSTD": "+03:00",
-    "offsetDST": "+03:00",
     "linkTo": "Asia/Riyadh"
   },
   {
     "tz": "Asia/Macao",
     "offsetSTD": "+08:00",
-    "offsetDST": "+08:00",
     "tzNameSTD": "China Standard Time",
     "linkTo": "Asia/Macau"
   },
   {
     "tz": "Asia/Macau",
     "offsetSTD": "+08:00",
-    "offsetDST": "+08:00",
     "tzNameSTD": "China Standard Time"
   },
   {
     "tz": "Asia/Magadan",
-    "offsetSTD": "+11:00",
-    "offsetDST": "+11:00"
+    "offsetSTD": "+11:00"
   },
   {
     "tz": "Asia/Makassar",
     "offsetSTD": "+08:00",
-    "offsetDST": "+08:00",
     "tzNameSTD": "Central Indonesia Time"
   },
   {
     "tz": "Asia/Manila",
     "offsetSTD": "+08:00",
-    "offsetDST": "+08:00",
     "tzNameSTD": "Philippine Standard Time"
   },
   {
     "tz": "Asia/Muscat",
     "offsetSTD": "+04:00",
-    "offsetDST": "+04:00",
     "linkTo": "Asia/Dubai"
   },
   {
@@ -1849,121 +1646,99 @@
   },
   {
     "tz": "Asia/Novokuznetsk",
-    "offsetSTD": "+07:00",
-    "offsetDST": "+07:00"
+    "offsetSTD": "+07:00"
   },
   {
     "tz": "Asia/Novosibirsk",
-    "offsetSTD": "+07:00",
-    "offsetDST": "+07:00"
+    "offsetSTD": "+07:00"
   },
   {
     "tz": "Asia/Omsk",
-    "offsetSTD": "+06:00",
-    "offsetDST": "+06:00"
+    "offsetSTD": "+06:00"
   },
   {
     "tz": "Asia/Oral",
-    "offsetSTD": "+05:00",
-    "offsetDST": "+05:00"
+    "offsetSTD": "+05:00"
   },
   {
     "tz": "Asia/Phnom_Penh",
     "offsetSTD": "+07:00",
-    "offsetDST": "+07:00",
     "linkTo": "Asia/Bangkok"
   },
   {
     "tz": "Asia/Pontianak",
     "offsetSTD": "+07:00",
-    "offsetDST": "+07:00",
     "tzNameSTD": "Western Indonesia Time"
   },
   {
     "tz": "Asia/Pyongyang",
     "offsetSTD": "+09:00",
-    "offsetDST": "+09:00",
     "tzNameSTD": "Korean Standard Time"
   },
   {
     "tz": "Asia/Qatar",
-    "offsetSTD": "+03:00",
-    "offsetDST": "+03:00"
+    "offsetSTD": "+03:00"
   },
   {
     "tz": "Asia/Qostanay",
-    "offsetSTD": "+06:00",
-    "offsetDST": "+06:00"
+    "offsetSTD": "+06:00"
   },
   {
     "tz": "Asia/Qyzylorda",
-    "offsetSTD": "+05:00",
-    "offsetDST": "+05:00"
+    "offsetSTD": "+05:00"
   },
   {
     "tz": "Asia/Rangoon",
     "offsetSTD": "+06:30",
-    "offsetDST": "+06:30",
     "linkTo": "Asia/Yangon"
   },
   {
     "tz": "Asia/Riyadh",
-    "offsetSTD": "+03:00",
-    "offsetDST": "+03:00"
+    "offsetSTD": "+03:00"
   },
   {
     "tz": "Asia/Saigon",
     "offsetSTD": "+07:00",
-    "offsetDST": "+07:00",
     "linkTo": "Asia/Ho_Chi_Minh"
   },
   {
     "tz": "Asia/Sakhalin",
-    "offsetSTD": "+11:00",
-    "offsetDST": "+11:00"
+    "offsetSTD": "+11:00"
   },
   {
     "tz": "Asia/Samarkand",
-    "offsetSTD": "+05:00",
-    "offsetDST": "+05:00"
+    "offsetSTD": "+05:00"
   },
   {
     "tz": "Asia/Seoul",
     "offsetSTD": "+09:00",
-    "offsetDST": "+09:00",
     "tzNameSTD": "Korean Standard Time"
   },
   {
     "tz": "Asia/Shanghai",
     "offsetSTD": "+08:00",
-    "offsetDST": "+08:00",
     "tzNameSTD": "China Standard Time"
   },
   {
     "tz": "Asia/Singapore",
-    "offsetSTD": "+08:00",
-    "offsetDST": "+08:00"
+    "offsetSTD": "+08:00"
   },
   {
     "tz": "Asia/Srednekolymsk",
-    "offsetSTD": "+11:00",
-    "offsetDST": "+11:00"
+    "offsetSTD": "+11:00"
   },
   {
     "tz": "Asia/Taipei",
     "offsetSTD": "+08:00",
-    "offsetDST": "+08:00",
     "tzNameSTD": "China Standard Time"
   },
   {
     "tz": "Asia/Tashkent",
-    "offsetSTD": "+05:00",
-    "offsetDST": "+05:00"
+    "offsetSTD": "+05:00"
   },
   {
     "tz": "Asia/Tbilisi",
-    "offsetSTD": "+04:00",
-    "offsetDST": "+04:00"
+    "offsetSTD": "+04:00"
   },
   {
     "tz": "Asia/Tehran",
@@ -1981,84 +1756,69 @@
   {
     "tz": "Asia/Thimbu",
     "offsetSTD": "+06:00",
-    "offsetDST": "+06:00",
     "linkTo": "Asia/Thimphu"
   },
   {
     "tz": "Asia/Thimphu",
-    "offsetSTD": "+06:00",
-    "offsetDST": "+06:00"
+    "offsetSTD": "+06:00"
   },
   {
     "tz": "Asia/Tokyo",
     "offsetSTD": "+09:00",
-    "offsetDST": "+09:00",
     "tzNameSTD": "Japanese Standard Time"
   },
   {
     "tz": "Asia/Tomsk",
-    "offsetSTD": "+07:00",
-    "offsetDST": "+07:00"
+    "offsetSTD": "+07:00"
   },
   {
     "tz": "Asia/Ujung_Pandang",
     "offsetSTD": "+08:00",
-    "offsetDST": "+08:00",
     "tzNameSTD": "Central Indonesia Time",
     "linkTo": "Asia/Makassar"
   },
   {
     "tz": "Asia/Ulaanbaatar",
-    "offsetSTD": "+08:00",
-    "offsetDST": "+08:00"
+    "offsetSTD": "+08:00"
   },
   {
     "tz": "Asia/Ulan_Bator",
     "offsetSTD": "+08:00",
-    "offsetDST": "+08:00",
     "linkTo": "Asia/Ulaanbaatar"
   },
   {
     "tz": "Asia/Urumqi",
     "offsetSTD": "+06:00",
-    "offsetDST": "+06:00",
     "linkTo": "Asia/Urumqi"
   },
   {
     "tz": "Asia/Ust-Nera",
-    "offsetSTD": "+10:00",
-    "offsetDST": "+10:00"
+    "offsetSTD": "+10:00"
   },
   {
     "tz": "Asia/Vientiane",
     "offsetSTD": "+07:00",
-    "offsetDST": "+07:00",
     "linkTo": "Asia/Bangkok"
   },
   {
     "tz": "Asia/Vladivostok",
-    "offsetSTD": "+10:00",
-    "offsetDST": "+10:00"
+    "offsetSTD": "+10:00"
   },
   {
     "tz": "Asia/Yakutsk",
-    "offsetSTD": "+09:00",
-    "offsetDST": "+09:00"
+    "offsetSTD": "+09:00"
   },
   {
     "tz": "Asia/Yangon",
-    "offsetSTD": "+06:30",
-    "offsetDST": "+06:30"
+    "offsetSTD": "+06:30"
   },
   {
     "tz": "Asia/Yekaterinburg",
-    "offsetSTD": "+05:00",
-    "offsetDST": "+05:00"
+    "offsetSTD": "+05:00"
   },
   {
     "tz": "Asia/Yerevan",
-    "offsetSTD": "+04:00",
-    "offsetDST": "+04:00"
+    "offsetSTD": "+04:00"
   },
   {
     "tz": "Atlantic/Azores",
@@ -2081,8 +1841,7 @@
   },
   {
     "tz": "Atlantic/Cape_Verde",
-    "offsetSTD": "-01:00",
-    "offsetDST": "-01:00"
+    "offsetSTD": "-01:00"
   },
   {
     "tz": "Atlantic/Faeroe",
@@ -2117,26 +1876,22 @@
   {
     "tz": "Atlantic/Reykjavik",
     "offsetSTD": "+00:00",
-    "offsetDST": "+00:00",
     "tzNameSTD": "Greenwich Mean Time",
     "linkTo": "Africa/Abidjan"
   },
   {
     "tz": "Atlantic/South_Georgia",
-    "offsetSTD": "-02:00",
-    "offsetDST": "-02:00"
+    "offsetSTD": "-02:00"
   },
   {
     "tz": "Atlantic/St_Helena",
     "offsetSTD": "+00:00",
-    "offsetDST": "+00:00",
     "tzNameSTD": "Greenwich Mean Time",
     "linkTo": "Africa/Abidjan"
   },
   {
     "tz": "Atlantic/Stanley",
-    "offsetSTD": "-03:00",
-    "offsetDST": "-03:00"
+    "offsetSTD": "-03:00"
   },
   {
     "tz": "Australia/ACT",
@@ -2156,7 +1911,6 @@
   {
     "tz": "Australia/Brisbane",
     "offsetSTD": "+10:00",
-    "offsetDST": "+10:00",
     "tzNameSTD": "Australian Eastern Standard Time"
   },
   {
@@ -2185,13 +1939,11 @@
   {
     "tz": "Australia/Darwin",
     "offsetSTD": "+09:30",
-    "offsetDST": "+09:30",
     "tzNameSTD": "Australian Central Standard Time"
   },
   {
     "tz": "Australia/Eucla",
-    "offsetSTD": "+08:45",
-    "offsetDST": "+08:45"
+    "offsetSTD": "+08:45"
   },
   {
     "tz": "Australia/Hobart",
@@ -2209,7 +1961,6 @@
   {
     "tz": "Australia/Lindeman",
     "offsetSTD": "+10:00",
-    "offsetDST": "+10:00",
     "tzNameSTD": "Australian Eastern Standard Time"
   },
   {
@@ -2227,7 +1978,6 @@
   {
     "tz": "Australia/North",
     "offsetSTD": "+09:30",
-    "offsetDST": "+09:30",
     "tzNameSTD": "Australian Central Standard Time",
     "linkTo": "Australia/Darwin"
   },
@@ -2242,13 +1992,11 @@
   {
     "tz": "Australia/Perth",
     "offsetSTD": "+08:00",
-    "offsetDST": "+08:00",
     "tzNameSTD": "Australian Western Standard Time"
   },
   {
     "tz": "Australia/Queensland",
     "offsetSTD": "+10:00",
-    "offsetDST": "+10:00",
     "tzNameSTD": "Australian Eastern Standard Time",
     "linkTo": "Australia/Brisbane"
   },
@@ -2286,7 +2034,6 @@
   {
     "tz": "Australia/West",
     "offsetSTD": "+08:00",
-    "offsetDST": "+08:00",
     "tzNameSTD": "Australian Western Standard Time",
     "linkTo": "Australia/Perth"
   },
@@ -2301,25 +2048,21 @@
   {
     "tz": "Brazil/Acre",
     "offsetSTD": "-05:00",
-    "offsetDST": "-05:00",
     "linkTo": "America/Rio_Branco"
   },
   {
     "tz": "Brazil/DeNoronha",
     "offsetSTD": "-02:00",
-    "offsetDST": "-02:00",
     "linkTo": "America/Noronha"
   },
   {
     "tz": "Brazil/East",
     "offsetSTD": "-03:00",
-    "offsetDST": "-03:00",
     "linkTo": "America/Sao_Paulo"
   },
   {
     "tz": "Brazil/West",
     "offsetSTD": "-04:00",
-    "offsetDST": "-04:00",
     "linkTo": "America/Manaus"
   },
   {
@@ -2373,14 +2116,12 @@
   {
     "tz": "Canada/Saskatchewan",
     "offsetSTD": "-06:00",
-    "offsetDST": "-06:00",
     "tzNameSTD": "Central Standard Time",
     "linkTo": "America/Regina"
   },
   {
     "tz": "Canada/Yukon",
     "offsetSTD": "-07:00",
-    "offsetDST": "-07:00",
     "tzNameSTD": "Mountain Standard Time",
     "linkTo": "America/Whitehorse"
   },
@@ -2431,7 +2172,6 @@
   {
     "tz": "Egypt",
     "offsetSTD": "+02:00",
-    "offsetDST": "+02:00",
     "tzNameSTD": "Eastern European Time",
     "linkTo": "Africa/Cairo"
   },
@@ -2446,7 +2186,6 @@
   {
     "tz": "EST",
     "offsetSTD": "-05:00",
-    "offsetDST": "-05:00",
     "tzNameSTD": "Eastern Standard Time",
     "linkTo": "America/Cancun"
   },
@@ -2461,217 +2200,182 @@
   {
     "tz": "Etc/GMT",
     "offsetSTD": "+00:00",
-    "offsetDST": "+00:00",
     "tzNameSTD": "Greenwich Mean Time"
   },
   {
     "tz": "Etc/GMT+0",
     "offsetSTD": "+00:00",
-    "offsetDST": "+00:00",
     "tzNameSTD": "Greenwich Mean Time",
     "linkTo": "Etc/GMT"
   },
   {
     "tz": "Etc/GMT+1",
     "offsetSTD": "-01:00",
-    "offsetDST": "-01:00",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT+10",
     "offsetSTD": "-10:00",
-    "offsetDST": "-10:00",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT+11",
     "offsetSTD": "-11:00",
-    "offsetDST": "-11:00",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT+12",
     "offsetSTD": "-12:00",
-    "offsetDST": "-12:00",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT+2",
     "offsetSTD": "-02:00",
-    "offsetDST": "-02:00",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT+3",
     "offsetSTD": "-03:00",
-    "offsetDST": "-03:00",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT+4",
     "offsetSTD": "-04:00",
-    "offsetDST": "-04:00",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT+5",
     "offsetSTD": "-05:00",
-    "offsetDST": "-05:00",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT+6",
     "offsetSTD": "-06:00",
-    "offsetDST": "-06:00",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT+7",
     "offsetSTD": "-07:00",
-    "offsetDST": "-07:00",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT+8",
     "offsetSTD": "-08:00",
-    "offsetDST": "-08:00",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT+9",
     "offsetSTD": "-09:00",
-    "offsetDST": "-09:00",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT-0",
     "offsetSTD": "+00:00",
-    "offsetDST": "+00:00",
     "tzNameSTD": "Greenwich Mean Time",
     "linkTo": "Etc/GMT"
   },
   {
     "tz": "Etc/GMT-1",
     "offsetSTD": "+01:00",
-    "offsetDST": "+01:00",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT-10",
     "offsetSTD": "+10:00",
-    "offsetDST": "+10:00",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT-11",
     "offsetSTD": "+11:00",
-    "offsetDST": "+11:00",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT-12",
     "offsetSTD": "+12:00",
-    "offsetDST": "+12:00",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT-13",
     "offsetSTD": "+13:00",
-    "offsetDST": "+13:00",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT-14",
     "offsetSTD": "+14:00",
-    "offsetDST": "+14:00",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT-2",
     "offsetSTD": "+02:00",
-    "offsetDST": "+02:00",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT-3",
     "offsetSTD": "+03:00",
-    "offsetDST": "+03:00",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT-4",
     "offsetSTD": "+04:00",
-    "offsetDST": "+04:00",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT-5",
     "offsetSTD": "+05:00",
-    "offsetDST": "+05:00",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT-6",
     "offsetSTD": "+06:00",
-    "offsetDST": "+06:00",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT-7",
     "offsetSTD": "+07:00",
-    "offsetDST": "+07:00",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT-8",
     "offsetSTD": "+08:00",
-    "offsetDST": "+08:00",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT-9",
     "offsetSTD": "+09:00",
-    "offsetDST": "+09:00",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT0",
     "offsetSTD": "+00:00",
-    "offsetDST": "+00:00",
     "tzNameSTD": "Greenwich Mean Time",
     "linkTo": "Etc/GMT"
   },
   {
     "tz": "Etc/Greenwich",
     "offsetSTD": "+00:00",
-    "offsetDST": "+00:00",
     "tzNameSTD": "Greenwich Mean Time",
     "linkTo": "Etc/GMT"
   },
   {
     "tz": "Etc/UCT",
     "offsetSTD": "+00:00",
-    "offsetDST": "+00:00",
     "tzNameSTD": "Coordinated Universal Time",
     "linkTo": "Etc/UTC"
   },
   {
     "tz": "Etc/Universal",
     "offsetSTD": "+00:00",
-    "offsetDST": "+00:00",
     "tzNameSTD": "Coordinated Universal Time",
     "linkTo": "Etc/UTC"
   },
   {
     "tz": "Etc/UTC",
     "offsetSTD": "+00:00",
-    "offsetDST": "+00:00",
     "tzNameSTD": "Coordinated Universal Time"
   },
   {
     "tz": "Etc/Zulu",
     "offsetSTD": "+00:00",
-    "offsetDST": "+00:00",
     "tzNameSTD": "Coordinated Universal Time",
     "linkTo": "Etc/UTC"
   },
@@ -2692,8 +2396,7 @@
   },
   {
     "tz": "Europe/Astrakhan",
-    "offsetSTD": "+04:00",
-    "offsetDST": "+04:00"
+    "offsetSTD": "+04:00"
   },
   {
     "tz": "Europe/Athens",
@@ -2817,8 +2520,7 @@
   },
   {
     "tz": "Europe/Istanbul",
-    "offsetSTD": "+03:00",
-    "offsetDST": "+03:00"
+    "offsetSTD": "+03:00"
   },
   {
     "tz": "Europe/Jersey",
@@ -2831,7 +2533,6 @@
   {
     "tz": "Europe/Kaliningrad",
     "offsetSTD": "+02:00",
-    "offsetDST": "+02:00",
     "tzNameSTD": "Eastern European Time"
   },
   {
@@ -2844,8 +2545,7 @@
   },
   {
     "tz": "Europe/Kirov",
-    "offsetSTD": "+03:00",
-    "offsetDST": "+03:00"
+    "offsetSTD": "+03:00"
   },
   {
     "tz": "Europe/Kyiv",
@@ -2908,8 +2608,7 @@
   },
   {
     "tz": "Europe/Minsk",
-    "offsetSTD": "+03:00",
-    "offsetDST": "+03:00"
+    "offsetSTD": "+03:00"
   },
   {
     "tz": "Europe/Monaco",
@@ -2922,7 +2621,6 @@
   {
     "tz": "Europe/Moscow",
     "offsetSTD": "+03:00",
-    "offsetDST": "+03:00",
     "tzNameSTD": "Moscow Time"
   },
   {
@@ -2979,8 +2677,7 @@
   },
   {
     "tz": "Europe/Samara",
-    "offsetSTD": "+04:00",
-    "offsetDST": "+04:00"
+    "offsetSTD": "+04:00"
   },
   {
     "tz": "Europe/San_Marino",
@@ -3000,13 +2697,11 @@
   },
   {
     "tz": "Europe/Saratov",
-    "offsetSTD": "+04:00",
-    "offsetDST": "+04:00"
+    "offsetSTD": "+04:00"
   },
   {
     "tz": "Europe/Simferopol",
     "offsetSTD": "+03:00",
-    "offsetDST": "+03:00",
     "tzNameSTD": "Moscow Time",
     "linkTo": "[note 2]"
   },
@@ -3057,8 +2752,7 @@
   },
   {
     "tz": "Europe/Ulyanovsk",
-    "offsetSTD": "+04:00",
-    "offsetDST": "+04:00"
+    "offsetSTD": "+04:00"
   },
   {
     "tz": "Europe/Uzhgorod",
@@ -3099,8 +2793,7 @@
   },
   {
     "tz": "Europe/Volgograd",
-    "offsetSTD": "+03:00",
-    "offsetDST": "+03:00"
+    "offsetSTD": "+03:00"
   },
   {
     "tz": "Europe/Warsaw",
@@ -3133,8 +2826,7 @@
   },
   {
     "tz": "Factory",
-    "offsetSTD": "+00:00",
-    "offsetDST": "+00:00"
+    "offsetSTD": "+00:00"
   },
   {
     "tz": "GB",
@@ -3155,123 +2847,104 @@
   {
     "tz": "GMT",
     "offsetSTD": "+00:00",
-    "offsetDST": "+00:00",
     "tzNameSTD": "Greenwich Mean Time",
     "linkTo": "Etc/GMT"
   },
   {
     "tz": "GMT+0",
     "offsetSTD": "+00:00",
-    "offsetDST": "+00:00",
     "tzNameSTD": "Greenwich Mean Time",
     "linkTo": "Etc/GMT"
   },
   {
     "tz": "GMT-0",
     "offsetSTD": "+00:00",
-    "offsetDST": "+00:00",
     "tzNameSTD": "Greenwich Mean Time",
     "linkTo": "Etc/GMT"
   },
   {
     "tz": "GMT0",
     "offsetSTD": "+00:00",
-    "offsetDST": "+00:00",
     "tzNameSTD": "Greenwich Mean Time",
     "linkTo": "Etc/GMT"
   },
   {
     "tz": "Greenwich",
     "offsetSTD": "+00:00",
-    "offsetDST": "+00:00",
     "tzNameSTD": "Greenwich Mean Time",
     "linkTo": "Etc/GMT"
   },
   {
     "tz": "Hongkong",
     "offsetSTD": "+08:00",
-    "offsetDST": "+08:00",
     "tzNameSTD": "Hong Kong Time",
     "linkTo": "Asia/Hong_Kong"
   },
   {
     "tz": "HST",
     "offsetSTD": "-10:00",
-    "offsetDST": "-10:00",
     "tzNameSTD": "Hawaiian Standard Time",
     "linkTo": "Pacific/Honolulu"
   },
   {
     "tz": "Iceland",
     "offsetSTD": "+00:00",
-    "offsetDST": "+00:00",
     "tzNameSTD": "Greenwich Mean Time",
     "linkTo": "Africa/Abidjan"
   },
   {
     "tz": "Indian/Antananarivo",
     "offsetSTD": "+03:00",
-    "offsetDST": "+03:00",
     "tzNameSTD": "East Africa Time",
     "linkTo": "Africa/Nairobi"
   },
   {
     "tz": "Indian/Chagos",
-    "offsetSTD": "+06:00",
-    "offsetDST": "+06:00"
+    "offsetSTD": "+06:00"
   },
   {
     "tz": "Indian/Christmas",
     "offsetSTD": "+07:00",
-    "offsetDST": "+07:00",
     "linkTo": "Asia/Bangkok"
   },
   {
     "tz": "Indian/Cocos",
     "offsetSTD": "+06:30",
-    "offsetDST": "+06:30",
     "linkTo": "Asia/Yangon"
   },
   {
     "tz": "Indian/Comoro",
     "offsetSTD": "+03:00",
-    "offsetDST": "+03:00",
     "tzNameSTD": "East Africa Time",
     "linkTo": "Africa/Nairobi"
   },
   {
     "tz": "Indian/Kerguelen",
     "offsetSTD": "+05:00",
-    "offsetDST": "+05:00",
     "linkTo": "Indian/Maldives"
   },
   {
     "tz": "Indian/Mahe",
     "offsetSTD": "+04:00",
-    "offsetDST": "+04:00",
     "linkTo": "Asia/Dubai"
   },
   {
     "tz": "Indian/Maldives",
-    "offsetSTD": "+05:00",
-    "offsetDST": "+05:00"
+    "offsetSTD": "+05:00"
   },
   {
     "tz": "Indian/Mauritius",
-    "offsetSTD": "+04:00",
-    "offsetDST": "+04:00"
+    "offsetSTD": "+04:00"
   },
   {
     "tz": "Indian/Mayotte",
     "offsetSTD": "+03:00",
-    "offsetDST": "+03:00",
     "tzNameSTD": "East Africa Time",
     "linkTo": "Africa/Nairobi"
   },
   {
     "tz": "Indian/Reunion",
     "offsetSTD": "+04:00",
-    "offsetDST": "+04:00",
     "linkTo": "Asia/Dubai"
   },
   {
@@ -3291,27 +2964,23 @@
   {
     "tz": "Jamaica",
     "offsetSTD": "-05:00",
-    "offsetDST": "-05:00",
     "tzNameSTD": "Eastern Standard Time",
     "linkTo": "America/Jamaica"
   },
   {
     "tz": "Japan",
     "offsetSTD": "+09:00",
-    "offsetDST": "+09:00",
     "tzNameSTD": "Japanese Standard Time",
     "linkTo": "Asia/Tokyo"
   },
   {
     "tz": "Kwajalein",
     "offsetSTD": "+12:00",
-    "offsetDST": "+12:00",
     "linkTo": "Pacific/Kwajalein"
   },
   {
     "tz": "Libya",
     "offsetSTD": "+02:00",
-    "offsetDST": "+02:00",
     "tzNameSTD": "Eastern European Time",
     "linkTo": "Africa/Tripoli"
   },
@@ -3350,7 +3019,6 @@
   {
     "tz": "MST",
     "offsetSTD": "-07:00",
-    "offsetDST": "-07:00",
     "tzNameSTD": "Mountain Standard Time",
     "linkTo": "America/Phoenix"
   },
@@ -3386,8 +3054,7 @@
   },
   {
     "tz": "Pacific/Apia",
-    "offsetSTD": "+13:00",
-    "offsetDST": "+13:00"
+    "offsetSTD": "+13:00"
   },
   {
     "tz": "Pacific/Auckland",
@@ -3398,8 +3065,7 @@
   },
   {
     "tz": "Pacific/Bougainville",
-    "offsetSTD": "+11:00",
-    "offsetDST": "+11:00"
+    "offsetSTD": "+11:00"
   },
   {
     "tz": "Pacific/Chatham",
@@ -3409,7 +3075,6 @@
   {
     "tz": "Pacific/Chuuk",
     "offsetSTD": "+10:00",
-    "offsetDST": "+10:00",
     "linkTo": "Pacific/Port_Moresby"
   },
   {
@@ -3419,19 +3084,16 @@
   },
   {
     "tz": "Pacific/Efate",
-    "offsetSTD": "+11:00",
-    "offsetDST": "+11:00"
+    "offsetSTD": "+11:00"
   },
   {
     "tz": "Pacific/Enderbury",
     "offsetSTD": "+13:00",
-    "offsetDST": "+13:00",
     "linkTo": "Pacific/Kanton"
   },
   {
     "tz": "Pacific/Fakaofo",
-    "offsetSTD": "+13:00",
-    "offsetDST": "+13:00"
+    "offsetSTD": "+13:00"
   },
   {
     "tz": "Pacific/Fiji",
@@ -3441,90 +3103,74 @@
   {
     "tz": "Pacific/Funafuti",
     "offsetSTD": "+12:00",
-    "offsetDST": "+12:00",
     "linkTo": "Pacific/Tarawa"
   },
   {
     "tz": "Pacific/Galapagos",
-    "offsetSTD": "-06:00",
-    "offsetDST": "-06:00"
+    "offsetSTD": "-06:00"
   },
   {
     "tz": "Pacific/Gambier",
-    "offsetSTD": "-09:00",
-    "offsetDST": "-09:00"
+    "offsetSTD": "-09:00"
   },
   {
     "tz": "Pacific/Guadalcanal",
-    "offsetSTD": "+11:00",
-    "offsetDST": "+11:00"
+    "offsetSTD": "+11:00"
   },
   {
     "tz": "Pacific/Guam",
     "offsetSTD": "+10:00",
-    "offsetDST": "+10:00",
     "tzNameSTD": "Chamorro Time Zone"
   },
   {
     "tz": "Pacific/Honolulu",
     "offsetSTD": "-10:00",
-    "offsetDST": "-10:00",
     "tzNameSTD": "Hawaiian Standard Time"
   },
   {
     "tz": "Pacific/Johnston",
     "offsetSTD": "-10:00",
-    "offsetDST": "-10:00",
     "tzNameSTD": "Hawaiian Standard Time",
     "linkTo": "Pacific/Honolulu"
   },
   {
     "tz": "Pacific/Kanton",
-    "offsetSTD": "+13:00",
-    "offsetDST": "+13:00"
+    "offsetSTD": "+13:00"
   },
   {
     "tz": "Pacific/Kiritimati",
-    "offsetSTD": "+14:00",
-    "offsetDST": "+14:00"
+    "offsetSTD": "+14:00"
   },
   {
     "tz": "Pacific/Kosrae",
-    "offsetSTD": "+11:00",
-    "offsetDST": "+11:00"
+    "offsetSTD": "+11:00"
   },
   {
     "tz": "Pacific/Kwajalein",
-    "offsetSTD": "+12:00",
-    "offsetDST": "+12:00"
+    "offsetSTD": "+12:00"
   },
   {
     "tz": "Pacific/Majuro",
     "offsetSTD": "+12:00",
-    "offsetDST": "+12:00",
     "linkTo": "Pacific/Tarawa"
   },
   {
     "tz": "Pacific/Marquesas",
-    "offsetSTD": "-09:30",
-    "offsetDST": "-09:30"
+    "offsetSTD": "-09:30"
   },
   {
     "tz": "Pacific/Midway",
     "offsetSTD": "-11:00",
-    "offsetDST": "-11:00",
     "tzNameSTD": "Samoa Standard Time",
     "linkTo": "Pacific/Pago_Pago"
   },
   {
     "tz": "Pacific/Nauru",
-    "offsetSTD": "+12:00",
-    "offsetDST": "+12:00"
+    "offsetSTD": "+12:00"
   },
   {
     "tz": "Pacific/Niue",
-    "offsetSTD": "-11:00",
-    "offsetDST": "-11:00"
+    "offsetSTD": "-11:00"
   },
   {
     "tz": "Pacific/Norfolk",
@@ -3533,98 +3179,81 @@
   },
   {
     "tz": "Pacific/Noumea",
-    "offsetSTD": "+11:00",
-    "offsetDST": "+11:00"
+    "offsetSTD": "+11:00"
   },
   {
     "tz": "Pacific/Pago_Pago",
     "offsetSTD": "-11:00",
-    "offsetDST": "-11:00",
     "tzNameSTD": "Samoa Standard Time"
   },
   {
     "tz": "Pacific/Palau",
-    "offsetSTD": "+09:00",
-    "offsetDST": "+09:00"
+    "offsetSTD": "+09:00"
   },
   {
     "tz": "Pacific/Pitcairn",
-    "offsetSTD": "-08:00",
-    "offsetDST": "-08:00"
+    "offsetSTD": "-08:00"
   },
   {
     "tz": "Pacific/Pohnpei",
     "offsetSTD": "+11:00",
-    "offsetDST": "+11:00",
     "linkTo": "Pacific/Guadalcanal"
   },
   {
     "tz": "Pacific/Ponape",
     "offsetSTD": "+11:00",
-    "offsetDST": "+11:00",
     "linkTo": "Pacific/Guadalcanal"
   },
   {
     "tz": "Pacific/Port_Moresby",
-    "offsetSTD": "+10:00",
-    "offsetDST": "+10:00"
+    "offsetSTD": "+10:00"
   },
   {
     "tz": "Pacific/Rarotonga",
-    "offsetSTD": "-10:00",
-    "offsetDST": "-10:00"
+    "offsetSTD": "-10:00"
   },
   {
     "tz": "Pacific/Saipan",
     "offsetSTD": "+10:00",
-    "offsetDST": "+10:00",
     "tzNameSTD": "Chamorro Time Zone",
     "linkTo": "Pacific/Guam"
   },
   {
     "tz": "Pacific/Samoa",
     "offsetSTD": "-11:00",
-    "offsetDST": "-11:00",
     "tzNameSTD": "Samoa Standard Time",
     "linkTo": "Pacific/Pago_Pago"
   },
   {
     "tz": "Pacific/Tahiti",
-    "offsetSTD": "-10:00",
-    "offsetDST": "-10:00"
+    "offsetSTD": "-10:00"
   },
   {
     "tz": "Pacific/Tarawa",
-    "offsetSTD": "+12:00",
-    "offsetDST": "+12:00"
+    "offsetSTD": "+12:00"
   },
   {
     "tz": "Pacific/Tongatapu",
-    "offsetSTD": "+13:00",
-    "offsetDST": "+13:00"
+    "offsetSTD": "+13:00"
   },
   {
     "tz": "Pacific/Truk",
     "offsetSTD": "+10:00",
-    "offsetDST": "+10:00",
     "linkTo": "Pacific/Port_Moresby"
   },
   {
     "tz": "Pacific/Wake",
     "offsetSTD": "+12:00",
-    "offsetDST": "+12:00",
     "linkTo": "Pacific/Tarawa"
   },
   {
     "tz": "Pacific/Wallis",
     "offsetSTD": "+12:00",
-    "offsetDST": "+12:00",
     "linkTo": "Pacific/Tarawa"
   },
   {
     "tz": "Pacific/Yap",
     "offsetSTD": "+10:00",
-    "offsetDST": "+10:00",
     "linkTo": "Pacific/Port_Moresby"
   },
   {
@@ -3646,7 +3275,6 @@
   {
     "tz": "PRC",
     "offsetSTD": "+08:00",
-    "offsetDST": "+08:00",
     "tzNameSTD": "China Standard Time",
     "linkTo": "Asia/Shanghai"
   },
@@ -3661,40 +3289,34 @@
   {
     "tz": "ROC",
     "offsetSTD": "+08:00",
-    "offsetDST": "+08:00",
     "tzNameSTD": "China Standard Time",
     "linkTo": "Asia/Taipei"
   },
   {
     "tz": "ROK",
     "offsetSTD": "+09:00",
-    "offsetDST": "+09:00",
     "tzNameSTD": "Korean Standard Time",
     "linkTo": "Asia/Seoul"
   },
   {
     "tz": "Singapore",
     "offsetSTD": "+08:00",
-    "offsetDST": "+08:00",
     "linkTo": "Asia/Singapore"
   },
   {
     "tz": "Turkey",
     "offsetSTD": "+03:00",
-    "offsetDST": "+03:00",
     "linkTo": "Europe/Istanbul"
   },
   {
     "tz": "UCT",
     "offsetSTD": "+00:00",
-    "offsetDST": "+00:00",
     "tzNameSTD": "Coordinated Universal Time",
     "linkTo": "Etc/UTC"
   },
   {
     "tz": "Universal",
     "offsetSTD": "+00:00",
-    "offsetDST": "+00:00",
     "tzNameSTD": "Coordinated Universal Time",
     "linkTo": "Etc/UTC"
   },
@@ -3717,7 +3339,6 @@
   {
     "tz": "US/Arizona",
     "offsetSTD": "-07:00",
-    "offsetDST": "-07:00",
     "tzNameSTD": "Mountain Standard Time",
     "linkTo": "America/Phoenix"
   },
@@ -3748,7 +3369,6 @@
   {
     "tz": "US/Hawaii",
     "offsetSTD": "-10:00",
-    "offsetDST": "-10:00",
     "tzNameSTD": "Hawaiian Standard Time",
     "linkTo": "Pacific/Honolulu"
   },
@@ -3787,21 +3407,18 @@
   {
     "tz": "US/Samoa",
     "offsetSTD": "-11:00",
-    "offsetDST": "-11:00",
     "tzNameSTD": "Samoa Standard Time",
     "linkTo": "Pacific/Pago_Pago"
   },
   {
     "tz": "UTC",
     "offsetSTD": "+00:00",
-    "offsetDST": "+00:00",
     "tzNameSTD": "Coordinated Universal Time",
     "linkTo": "Etc/UTC"
   },
   {
     "tz": "W-SU",
     "offsetSTD": "+03:00",
-    "offsetDST": "+03:00",
     "tzNameSTD": "Moscow Time",
     "linkTo": "Europe/Moscow"
   },
@@ -3816,7 +3433,6 @@
   {
     "tz": "Zulu",
     "offsetSTD": "+00:00",
-    "offsetDST": "+00:00",
     "tzNameSTD": "Coordinated Universal Time",
     "linkTo": "Etc/UTC"
   }
