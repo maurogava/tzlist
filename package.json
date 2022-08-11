@@ -1,5 +1,5 @@
 {
-  "name": "tzlist",
+  "name": "@mauromjg/tzlist",
   "version": "0.0.1",
   "description": "A time zone list following latest IANA list.",
   "author": "Mauro Gava",
