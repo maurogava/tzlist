@@ -1,14 +1,21 @@
 {
   "name": "tzlist",
   "version": "0.0.1",
-  "description": "A time zone list following latest IANA list ",
-  "main": "index.js",
+  "description": "A time zone list following latest IANA list.",
+  "author": "Mauro Gava",
+  "license": "MIT",
+  "main": "dist/index.js",
   "scripts": {
-    "test": "0"
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/maurogava/tzlist.git"
+  },
+  "homepage": "https://github.com/maurogava/tzlist#readme",
+  "bugs": {
+    "url": "https://github.com/maurogava/tzlist/issues"
   },
   "keywords": [
     "timezone",
@@ -20,12 +27,11 @@
     "list",
     "data",
     "iana",
-    "array"
+    "array",
+    "GMT"
   ],
-  "author": "Mauro Gava",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/maurogava/tzlist/issues"
-  },
-  "homepage": "https://github.com/maurogava/tzlist#readme"
+  "devDependencies": {
+    "@tsconfig/node18": "^1.0.1",
+    "typescript": "^4.7.4"
+  }
 }
