@@ -82,7 +82,9 @@
   {
     "tz": "Africa/Casablanca",
     "offsetSTD": "+01:00",
-    "offsetDST": "+00:00"
+    "offsetDST": "+00:00",
+    "tzNameSTD": "+01",
+    "tzNameDST": "+00"
   },
   {
     "tz": "Africa/Ceuta",
@@ -124,7 +126,9 @@
   {
     "tz": "Africa/El_Aaiun",
     "offsetSTD": "+01:00",
-    "offsetDST": "+00:00"
+    "offsetDST": "+00:00",
+    "tzNameSTD": "+01",
+    "tzNameDST": "+00"
   },
   {
     "tz": "Africa/Freetown",
@@ -334,60 +338,74 @@
   },
   {
     "tz": "America/Araguaina",
-    "offsetSTD": "-03:00"
+    "offsetSTD": "-03:00",
+    "tzNameSTD": "-03"
   },
   {
     "tz": "America/Argentina/Buenos_Aires",
-    "offsetSTD": "-03:00"
+    "offsetSTD": "-03:00",
+    "tzNameSTD": "-03"
   },
   {
     "tz": "America/Argentina/Catamarca",
-    "offsetSTD": "-03:00"
+    "offsetSTD": "-03:00",
+    "tzNameSTD": "-03"
   },
   {
     "tz": "America/Argentina/ComodRivadavia",
     "offsetSTD": "-03:00",
+    "tzNameSTD": "-03",
     "linkTo": "America/Argentina/Catamarca"
   },
   {
     "tz": "America/Argentina/Cordoba",
-    "offsetSTD": "-03:00"
+    "offsetSTD": "-03:00",
+    "tzNameSTD": "-03"
   },
   {
     "tz": "America/Argentina/Jujuy",
-    "offsetSTD": "-03:00"
+    "offsetSTD": "-03:00",
+    "tzNameSTD": "-03"
   },
   {
     "tz": "America/Argentina/La_Rioja",
-    "offsetSTD": "-03:00"
+    "offsetSTD": "-03:00",
+    "tzNameSTD": "-03"
   },
   {
     "tz": "America/Argentina/Mendoza",
-    "offsetSTD": "-03:00"
+    "offsetSTD": "-03:00",
+    "tzNameSTD": "-03"
   },
   {
     "tz": "America/Argentina/Rio_Gallegos",
-    "offsetSTD": "-03:00"
+    "offsetSTD": "-03:00",
+    "tzNameSTD": "-03"
   },
   {
     "tz": "America/Argentina/Salta",
-    "offsetSTD": "-03:00"
+    "offsetSTD": "-03:00",
+    "tzNameSTD": "-03"
   },
   {
     "tz": "America/Argentina/San_Juan",
-    "offsetSTD": "-03:00"
+    "offsetSTD": "-03:00",
+    "tzNameSTD": "-03"
   },
   {
     "tz": "America/Argentina/San_Luis",
-    "offsetSTD": "-03:00"
+    "offsetSTD": "-03:00",
+    "tzNameSTD": "-03"
   },
   {
     "tz": "America/Argentina/Tucuman",
-    "offsetSTD": "-03:00"
+    "offsetSTD": "-03:00",
+    "tzNameSTD": "-03"
   },
   {
     "tz": "America/Argentina/Ushuaia",
-    "offsetSTD": "-03:00"
+    "offsetSTD": "-03:00",
+    "tzNameSTD": "-03"
   },
   {
     "tz": "America/Aruba",
@@ -398,7 +416,9 @@
   {
     "tz": "America/Asuncion",
     "offsetSTD": "-04:00",
-    "offsetDST": "-03:00"
+    "offsetDST": "-03:00",
+    "tzNameSTD": "-04",
+    "tzNameDST": "-03"
   },
   {
     "tz": "America/Atikokan",
@@ -416,7 +436,8 @@
   },
   {
     "tz": "America/Bahia",
-    "offsetSTD": "-03:00"
+    "offsetSTD": "-03:00",
+    "tzNameSTD": "-03"
   },
   {
     "tz": "America/Bahia_Banderas",
@@ -432,7 +453,8 @@
   },
   {
     "tz": "America/Belem",
-    "offsetSTD": "-03:00"
+    "offsetSTD": "-03:00",
+    "tzNameSTD": "-03"
   },
   {
     "tz": "America/Belize",
@@ -447,11 +469,13 @@
   },
   {
     "tz": "America/Boa_Vista",
-    "offsetSTD": "-04:00"
+    "offsetSTD": "-04:00",
+    "tzNameSTD": "-04"
   },
   {
     "tz": "America/Bogota",
-    "offsetSTD": "-05:00"
+    "offsetSTD": "-05:00",
+    "tzNameSTD": "-05"
   },
   {
     "tz": "America/Boise",
@@ -463,6 +487,7 @@
   {
     "tz": "America/Buenos_Aires",
     "offsetSTD": "-03:00",
+    "tzNameSTD": "-03",
     "linkTo": "America/Argentina/Buenos_Aires"
   },
   {
@@ -474,7 +499,8 @@
   },
   {
     "tz": "America/Campo_Grande",
-    "offsetSTD": "-04:00"
+    "offsetSTD": "-04:00",
+    "tzNameSTD": "-04"
   },
   {
     "tz": "America/Cancun",
@@ -483,16 +509,19 @@
   },
   {
     "tz": "America/Caracas",
-    "offsetSTD": "-04:00"
+    "offsetSTD": "-04:00",
+    "tzNameSTD": "-04"
   },
   {
     "tz": "America/Catamarca",
     "offsetSTD": "-03:00",
+    "tzNameSTD": "-03",
     "linkTo": "America/Argentina/Catamarca"
   },
   {
     "tz": "America/Cayenne",
-    "offsetSTD": "-03:00"
+    "offsetSTD": "-03:00",
+    "tzNameSTD": "-03"
   },
   {
     "tz": "America/Cayman",
@@ -523,6 +552,7 @@
   {
     "tz": "America/Cordoba",
     "offsetSTD": "-03:00",
+    "tzNameSTD": "-03",
     "linkTo": "America/Argentina/Cordoba"
   },
   {
@@ -538,7 +568,8 @@
   },
   {
     "tz": "America/Cuiaba",
-    "offsetSTD": "-04:00"
+    "offsetSTD": "-04:00",
+    "tzNameSTD": "-04"
   },
   {
     "tz": "America/Curacao",
@@ -590,7 +621,8 @@
   },
   {
     "tz": "America/Eirunepe",
-    "offsetSTD": "-05:00"
+    "offsetSTD": "-05:00",
+    "tzNameSTD": "-05"
   },
   {
     "tz": "America/El_Salvador",
@@ -620,7 +652,8 @@
   },
   {
     "tz": "America/Fortaleza",
-    "offsetSTD": "-03:00"
+    "offsetSTD": "-03:00",
+    "tzNameSTD": "-03"
   },
   {
     "tz": "America/Glace_Bay",
@@ -633,6 +666,8 @@
     "tz": "America/Godthab",
     "offsetSTD": "-03:00",
     "offsetDST": "-02:00",
+    "tzNameSTD": "-03",
+    "tzNameDST": "-02",
     "linkTo": "America/Nuuk"
   },
   {
@@ -668,11 +703,13 @@
   },
   {
     "tz": "America/Guayaquil",
-    "offsetSTD": "-05:00"
+    "offsetSTD": "-05:00",
+    "tzNameSTD": "-05"
   },
   {
     "tz": "America/Guyana",
-    "offsetSTD": "-04:00"
+    "offsetSTD": "-04:00",
+    "tzNameSTD": "-04"
   },
   {
     "tz": "America/Halifax",
@@ -779,6 +816,7 @@
   {
     "tz": "America/Jujuy",
     "offsetSTD": "-03:00",
+    "tzNameSTD": "-03",
     "linkTo": "America/Argentina/Jujuy"
   },
   {
@@ -818,11 +856,13 @@
   },
   {
     "tz": "America/La_Paz",
-    "offsetSTD": "-04:00"
+    "offsetSTD": "-04:00",
+    "tzNameSTD": "-04"
   },
   {
     "tz": "America/Lima",
-    "offsetSTD": "-05:00"
+    "offsetSTD": "-05:00",
+    "tzNameSTD": "-05"
   },
   {
     "tz": "America/Los_Angeles",
@@ -847,7 +887,8 @@
   },
   {
     "tz": "America/Maceio",
-    "offsetSTD": "-03:00"
+    "offsetSTD": "-03:00",
+    "tzNameSTD": "-03"
   },
   {
     "tz": "America/Managua",
@@ -856,7 +897,8 @@
   },
   {
     "tz": "America/Manaus",
-    "offsetSTD": "-04:00"
+    "offsetSTD": "-04:00",
+    "tzNameSTD": "-04"
   },
   {
     "tz": "America/Marigot",
@@ -886,6 +928,7 @@
   {
     "tz": "America/Mendoza",
     "offsetSTD": "-03:00",
+    "tzNameSTD": "-03",
     "linkTo": "America/Argentina/Mendoza"
   },
   {
@@ -919,7 +962,9 @@
   {
     "tz": "America/Miquelon",
     "offsetSTD": "-03:00",
-    "offsetDST": "-02:00"
+    "offsetDST": "-02:00",
+    "tzNameSTD": "-03",
+    "tzNameDST": "-02"
   },
   {
     "tz": "America/Moncton",
@@ -937,7 +982,8 @@
   },
   {
     "tz": "America/Montevideo",
-    "offsetSTD": "-03:00"
+    "offsetSTD": "-03:00",
+    "tzNameSTD": "-03"
   },
   {
     "tz": "America/Montreal",
@@ -984,7 +1030,8 @@
   },
   {
     "tz": "America/Noronha",
-    "offsetSTD": "-02:00"
+    "offsetSTD": "-02:00",
+    "tzNameSTD": "-02"
   },
   {
     "tz": "America/North_Dakota/Beulah",
@@ -1010,7 +1057,9 @@
   {
     "tz": "America/Nuuk",
     "offsetSTD": "-03:00",
-    "offsetDST": "-02:00"
+    "offsetDST": "-02:00",
+    "tzNameSTD": "-03",
+    "tzNameDST": "-02"
   },
   {
     "tz": "America/Ojinaga",
@@ -1033,7 +1082,8 @@
   },
   {
     "tz": "America/Paramaribo",
-    "offsetSTD": "-03:00"
+    "offsetSTD": "-03:00",
+    "tzNameSTD": "-03"
   },
   {
     "tz": "America/Phoenix",
@@ -1056,11 +1106,13 @@
   {
     "tz": "America/Porto_Acre",
     "offsetSTD": "-05:00",
+    "tzNameSTD": "-05",
     "linkTo": "America/Rio_Branco"
   },
   {
     "tz": "America/Porto_Velho",
-    "offsetSTD": "-04:00"
+    "offsetSTD": "-04:00",
+    "tzNameSTD": "-04"
   },
   {
     "tz": "America/Puerto_Rico",
@@ -1070,6 +1122,7 @@
   {
     "tz": "America/Punta_Arenas",
     "offsetSTD": "-03:00",
+    "tzNameSTD": "-03",
     "linkTo": "Magallanes Region"
   },
   {
@@ -1088,7 +1141,8 @@
   },
   {
     "tz": "America/Recife",
-    "offsetSTD": "-03:00"
+    "offsetSTD": "-03:00",
+    "tzNameSTD": "-03"
   },
   {
     "tz": "America/Regina",
@@ -1104,11 +1158,13 @@
   },
   {
     "tz": "America/Rio_Branco",
-    "offsetSTD": "-05:00"
+    "offsetSTD": "-05:00",
+    "tzNameSTD": "-05"
   },
   {
     "tz": "America/Rosario",
     "offsetSTD": "-03:00",
+    "tzNameSTD": "-03",
     "linkTo": "America/Argentina/Cordoba"
   },
   {
@@ -1121,12 +1177,15 @@
   },
   {
     "tz": "America/Santarem",
-    "offsetSTD": "-03:00"
+    "offsetSTD": "-03:00",
+    "tzNameSTD": "-03"
   },
   {
     "tz": "America/Santiago",
     "offsetSTD": "-04:00",
-    "offsetDST": "-03:00"
+    "offsetDST": "-03:00",
+    "tzNameSTD": "-04",
+    "tzNameDST": "-03"
   },
   {
     "tz": "America/Santo_Domingo",
@@ -1135,12 +1194,15 @@
   },
   {
     "tz": "America/Sao_Paulo",
-    "offsetSTD": "-03:00"
+    "offsetSTD": "-03:00",
+    "tzNameSTD": "-03"
   },
   {
     "tz": "America/Scoresbysund",
     "offsetSTD": "-01:00",
-    "offsetDST": "+00:00"
+    "offsetDST": "+00:00",
+    "tzNameSTD": "-01",
+    "tzNameDST": "+00"
   },
   {
     "tz": "America/Shiprock",
@@ -1279,15 +1341,18 @@
   },
   {
     "tz": "Antarctica/Casey",
-    "offsetSTD": "+11:00"
+    "offsetSTD": "+11:00",
+    "tzNameSTD": "+11"
   },
   {
     "tz": "Antarctica/Davis",
-    "offsetSTD": "+07:00"
+    "offsetSTD": "+07:00",
+    "tzNameSTD": "+07"
   },
   {
     "tz": "Antarctica/DumontDUrville",
     "offsetSTD": "+10:00",
+    "tzNameSTD": "+10",
     "linkTo": "Pacific/Port_Moresby"
   },
   {
@@ -1299,7 +1364,8 @@
   },
   {
     "tz": "Antarctica/Mawson",
-    "offsetSTD": "+05:00"
+    "offsetSTD": "+05:00",
+    "tzNameSTD": "+05"
   },
   {
     "tz": "Antarctica/McMurdo",
@@ -1312,11 +1378,13 @@
   {
     "tz": "Antarctica/Palmer",
     "offsetSTD": "-03:00",
+    "tzNameSTD": "-03",
     "linkTo": "Chilean Antarctica Region"
   },
   {
     "tz": "Antarctica/Rothera",
-    "offsetSTD": "-03:00"
+    "offsetSTD": "-03:00",
+    "tzNameSTD": "-03"
   },
   {
     "tz": "Antarctica/South_Pole",
@@ -1329,17 +1397,21 @@
   {
     "tz": "Antarctica/Syowa",
     "offsetSTD": "+03:00",
+    "tzNameSTD": "+03",
     "linkTo": "Asia/Riyadh"
   },
   {
     "tz": "Antarctica/Troll",
     "offsetSTD": "+00:00",
     "offsetDST": "+02:00",
+    "tzNameSTD": "+00",
+    "tzNameDST": "+02",
     "linkTo": "+01:00"
   },
   {
     "tz": "Antarctica/Vostok",
     "offsetSTD": "+06:00",
+    "tzNameSTD": "+06",
     "linkTo": "Asia/Urumqi"
   },
   {
@@ -1353,11 +1425,13 @@
   {
     "tz": "Asia/Aden",
     "offsetSTD": "+03:00",
+    "tzNameSTD": "+03",
     "linkTo": "Asia/Riyadh"
   },
   {
     "tz": "Asia/Almaty",
-    "offsetSTD": "+06:00"
+    "offsetSTD": "+06:00",
+    "tzNameSTD": "+06"
   },
   {
     "tz": "Asia/Amman",
@@ -1368,49 +1442,60 @@
   },
   {
     "tz": "Asia/Anadyr",
-    "offsetSTD": "+12:00"
+    "offsetSTD": "+12:00",
+    "tzNameSTD": "+12"
   },
   {
     "tz": "Asia/Aqtau",
-    "offsetSTD": "+05:00"
+    "offsetSTD": "+05:00",
+    "tzNameSTD": "+05"
   },
   {
     "tz": "Asia/Aqtobe",
-    "offsetSTD": "+05:00"
+    "offsetSTD": "+05:00",
+    "tzNameSTD": "+05"
   },
   {
     "tz": "Asia/Ashgabat",
-    "offsetSTD": "+05:00"
+    "offsetSTD": "+05:00",
+    "tzNameSTD": "+05"
   },
   {
     "tz": "Asia/Ashkhabad",
     "offsetSTD": "+05:00",
+    "tzNameSTD": "+05",
     "linkTo": "Asia/Ashgabat"
   },
   {
     "tz": "Asia/Atyrau",
-    "offsetSTD": "+05:00"
+    "offsetSTD": "+05:00",
+    "tzNameSTD": "+05"
   },
   {
     "tz": "Asia/Baghdad",
-    "offsetSTD": "+03:00"
+    "offsetSTD": "+03:00",
+    "tzNameSTD": "+03"
   },
   {
     "tz": "Asia/Bahrain",
     "offsetSTD": "+03:00",
+    "tzNameSTD": "+03",
     "linkTo": "Asia/Qatar"
   },
   {
     "tz": "Asia/Baku",
-    "offsetSTD": "+04:00"
+    "offsetSTD": "+04:00",
+    "tzNameSTD": "+04"
   },
   {
     "tz": "Asia/Bangkok",
-    "offsetSTD": "+07:00"
+    "offsetSTD": "+07:00",
+    "tzNameSTD": "+07"
   },
   {
     "tz": "Asia/Barnaul",
-    "offsetSTD": "+07:00"
+    "offsetSTD": "+07:00",
+    "tzNameSTD": "+07"
   },
   {
     "tz": "Asia/Beirut",
@@ -1421,11 +1506,13 @@
   },
   {
     "tz": "Asia/Bishkek",
-    "offsetSTD": "+06:00"
+    "offsetSTD": "+06:00",
+    "tzNameSTD": "+06"
   },
   {
     "tz": "Asia/Brunei",
     "offsetSTD": "+08:00",
+    "tzNameSTD": "+08",
     "linkTo": "Asia/Kuching"
   },
   {
@@ -1436,11 +1523,13 @@
   },
   {
     "tz": "Asia/Chita",
-    "offsetSTD": "+09:00"
+    "offsetSTD": "+09:00",
+    "tzNameSTD": "+09"
   },
   {
     "tz": "Asia/Choibalsan",
-    "offsetSTD": "+08:00"
+    "offsetSTD": "+08:00",
+    "tzNameSTD": "+08"
   },
   {
     "tz": "Asia/Chongqing",
@@ -1456,11 +1545,13 @@
   },
   {
     "tz": "Asia/Colombo",
-    "offsetSTD": "+05:30"
+    "offsetSTD": "+05:30",
+    "tzNameSTD": "+0530"
   },
   {
     "tz": "Asia/Dacca",
     "offsetSTD": "+06:00",
+    "tzNameSTD": "+06",
     "linkTo": "Asia/Dhaka"
   },
   {
@@ -1472,19 +1563,23 @@
   },
   {
     "tz": "Asia/Dhaka",
-    "offsetSTD": "+06:00"
+    "offsetSTD": "+06:00",
+    "tzNameSTD": "+06"
   },
   {
     "tz": "Asia/Dili",
-    "offsetSTD": "+09:00"
+    "offsetSTD": "+09:00",
+    "tzNameSTD": "+09"
   },
   {
     "tz": "Asia/Dubai",
-    "offsetSTD": "+04:00"
+    "offsetSTD": "+04:00",
+    "tzNameSTD": "+04"
   },
   {
     "tz": "Asia/Dushanbe",
-    "offsetSTD": "+05:00"
+    "offsetSTD": "+05:00",
+    "tzNameSTD": "+05"
   },
   {
     "tz": "Asia/Famagusta",
@@ -1515,7 +1610,8 @@
   },
   {
     "tz": "Asia/Ho_Chi_Minh",
-    "offsetSTD": "+07:00"
+    "offsetSTD": "+07:00",
+    "tzNameSTD": "+07"
   },
   {
     "tz": "Asia/Hong_Kong",
@@ -1524,15 +1620,18 @@
   },
   {
     "tz": "Asia/Hovd",
-    "offsetSTD": "+07:00"
+    "offsetSTD": "+07:00",
+    "tzNameSTD": "+07"
   },
   {
     "tz": "Asia/Irkutsk",
-    "offsetSTD": "+08:00"
+    "offsetSTD": "+08:00",
+    "tzNameSTD": "+08"
   },
   {
     "tz": "Asia/Istanbul",
     "offsetSTD": "+03:00",
+    "tzNameSTD": "+03",
     "linkTo": "Europe/Istanbul"
   },
   {
@@ -1554,11 +1653,13 @@
   },
   {
     "tz": "Asia/Kabul",
-    "offsetSTD": "+04:30"
+    "offsetSTD": "+04:30",
+    "tzNameSTD": "+0430"
   },
   {
     "tz": "Asia/Kamchatka",
-    "offsetSTD": "+12:00"
+    "offsetSTD": "+12:00",
+    "tzNameSTD": "+12"
   },
   {
     "tz": "Asia/Karachi",
@@ -1568,20 +1669,24 @@
   {
     "tz": "Asia/Kashgar",
     "offsetSTD": "+06:00",
+    "tzNameSTD": "+06",
     "linkTo": "Asia/Urumqi"
   },
   {
     "tz": "Asia/Kathmandu",
-    "offsetSTD": "+05:45"
+    "offsetSTD": "+05:45",
+    "tzNameSTD": "+0545"
   },
   {
     "tz": "Asia/Katmandu",
     "offsetSTD": "+05:45",
+    "tzNameSTD": "+0545",
     "linkTo": "Asia/Kathmandu"
   },
   {
     "tz": "Asia/Khandyga",
-    "offsetSTD": "+09:00"
+    "offsetSTD": "+09:00",
+    "tzNameSTD": "+09"
   },
   {
     "tz": "Asia/Kolkata",
@@ -1591,20 +1696,24 @@
   },
   {
     "tz": "Asia/Krasnoyarsk",
-    "offsetSTD": "+07:00"
+    "offsetSTD": "+07:00",
+    "tzNameSTD": "+07"
   },
   {
     "tz": "Asia/Kuala_Lumpur",
     "offsetSTD": "+08:00",
+    "tzNameSTD": "+08",
     "linkTo": "Asia/Singapore"
   },
   {
     "tz": "Asia/Kuching",
-    "offsetSTD": "+08:00"
+    "offsetSTD": "+08:00",
+    "tzNameSTD": "+08"
   },
   {
     "tz": "Asia/Kuwait",
     "offsetSTD": "+03:00",
+    "tzNameSTD": "+03",
     "linkTo": "Asia/Riyadh"
   },
   {
@@ -1620,7 +1729,8 @@
   },
   {
     "tz": "Asia/Magadan",
-    "offsetSTD": "+11:00"
+    "offsetSTD": "+11:00",
+    "tzNameSTD": "+11"
   },
   {
     "tz": "Asia/Makassar",
@@ -1635,6 +1745,7 @@
   {
     "tz": "Asia/Muscat",
     "offsetSTD": "+04:00",
+    "tzNameSTD": "+04",
     "linkTo": "Asia/Dubai"
   },
   {
@@ -1646,23 +1757,28 @@
   },
   {
     "tz": "Asia/Novokuznetsk",
-    "offsetSTD": "+07:00"
+    "offsetSTD": "+07:00",
+    "tzNameSTD": "+07"
   },
   {
     "tz": "Asia/Novosibirsk",
-    "offsetSTD": "+07:00"
+    "offsetSTD": "+07:00",
+    "tzNameSTD": "+07"
   },
   {
     "tz": "Asia/Omsk",
-    "offsetSTD": "+06:00"
+    "offsetSTD": "+06:00",
+    "tzNameSTD": "+06"
   },
   {
     "tz": "Asia/Oral",
-    "offsetSTD": "+05:00"
+    "offsetSTD": "+05:00",
+    "tzNameSTD": "+05"
   },
   {
     "tz": "Asia/Phnom_Penh",
     "offsetSTD": "+07:00",
+    "tzNameSTD": "+07",
     "linkTo": "Asia/Bangkok"
   },
   {
@@ -1677,37 +1793,45 @@
   },
   {
     "tz": "Asia/Qatar",
-    "offsetSTD": "+03:00"
+    "offsetSTD": "+03:00",
+    "tzNameSTD": "+03"
   },
   {
     "tz": "Asia/Qostanay",
-    "offsetSTD": "+06:00"
+    "offsetSTD": "+06:00",
+    "tzNameSTD": "+06"
   },
   {
     "tz": "Asia/Qyzylorda",
-    "offsetSTD": "+05:00"
+    "offsetSTD": "+05:00",
+    "tzNameSTD": "+05"
   },
   {
     "tz": "Asia/Rangoon",
     "offsetSTD": "+06:30",
+    "tzNameSTD": "+0630",
     "linkTo": "Asia/Yangon"
   },
   {
     "tz": "Asia/Riyadh",
-    "offsetSTD": "+03:00"
+    "offsetSTD": "+03:00",
+    "tzNameSTD": "+03"
   },
   {
     "tz": "Asia/Saigon",
     "offsetSTD": "+07:00",
+    "tzNameSTD": "+07",
     "linkTo": "Asia/Ho_Chi_Minh"
   },
   {
     "tz": "Asia/Sakhalin",
-    "offsetSTD": "+11:00"
+    "offsetSTD": "+11:00",
+    "tzNameSTD": "+11"
   },
   {
     "tz": "Asia/Samarkand",
-    "offsetSTD": "+05:00"
+    "offsetSTD": "+05:00",
+    "tzNameSTD": "+05"
   },
   {
     "tz": "Asia/Seoul",
@@ -1721,11 +1845,13 @@
   },
   {
     "tz": "Asia/Singapore",
-    "offsetSTD": "+08:00"
+    "offsetSTD": "+08:00",
+    "tzNameSTD": "+08"
   },
   {
     "tz": "Asia/Srednekolymsk",
-    "offsetSTD": "+11:00"
+    "offsetSTD": "+11:00",
+    "tzNameSTD": "+11"
   },
   {
     "tz": "Asia/Taipei",
@@ -1734,16 +1860,20 @@
   },
   {
     "tz": "Asia/Tashkent",
-    "offsetSTD": "+05:00"
+    "offsetSTD": "+05:00",
+    "tzNameSTD": "+05"
   },
   {
     "tz": "Asia/Tbilisi",
-    "offsetSTD": "+04:00"
+    "offsetSTD": "+04:00",
+    "tzNameSTD": "+04"
   },
   {
     "tz": "Asia/Tehran",
     "offsetSTD": "+03:30",
-    "offsetDST": "+04:30"
+    "offsetDST": "+04:30",
+    "tzNameSTD": "+0330",
+    "tzNameDST": "+0430"
   },
   {
     "tz": "Asia/Tel_Aviv",
@@ -1756,11 +1886,13 @@
   {
     "tz": "Asia/Thimbu",
     "offsetSTD": "+06:00",
+    "tzNameSTD": "+06",
     "linkTo": "Asia/Thimphu"
   },
   {
     "tz": "Asia/Thimphu",
-    "offsetSTD": "+06:00"
+    "offsetSTD": "+06:00",
+    "tzNameSTD": "+06"
   },
   {
     "tz": "Asia/Tokyo",
@@ -1769,7 +1901,8 @@
   },
   {
     "tz": "Asia/Tomsk",
-    "offsetSTD": "+07:00"
+    "offsetSTD": "+07:00",
+    "tzNameSTD": "+07"
   },
   {
     "tz": "Asia/Ujung_Pandang",
@@ -1779,51 +1912,63 @@
   },
   {
     "tz": "Asia/Ulaanbaatar",
-    "offsetSTD": "+08:00"
+    "offsetSTD": "+08:00",
+    "tzNameSTD": "+08"
   },
   {
     "tz": "Asia/Ulan_Bator",
     "offsetSTD": "+08:00",
+    "tzNameSTD": "+08",
     "linkTo": "Asia/Ulaanbaatar"
   },
   {
     "tz": "Asia/Urumqi",
     "offsetSTD": "+06:00",
+    "tzNameSTD": "+06",
     "linkTo": "Asia/Urumqi"
   },
   {
     "tz": "Asia/Ust-Nera",
-    "offsetSTD": "+10:00"
+    "offsetSTD": "+10:00",
+    "tzNameSTD": "+10"
   },
   {
     "tz": "Asia/Vientiane",
     "offsetSTD": "+07:00",
+    "tzNameSTD": "+07",
     "linkTo": "Asia/Bangkok"
   },
   {
     "tz": "Asia/Vladivostok",
-    "offsetSTD": "+10:00"
+    "offsetSTD": "+10:00",
+    "tzNameSTD": "+10"
   },
   {
     "tz": "Asia/Yakutsk",
-    "offsetSTD": "+09:00"
+    "offsetSTD": "+09:00",
+    "tzNameSTD": "+09"
   },
   {
     "tz": "Asia/Yangon",
-    "offsetSTD": "+06:30"
+    "offsetSTD": "+06:30",
+    "tzNameSTD": "+0630"
   },
   {
     "tz": "Asia/Yekaterinburg",
-    "offsetSTD": "+05:00"
+    "offsetSTD": "+05:00",
+    "tzNameSTD": "+05"
   },
   {
     "tz": "Asia/Yerevan",
-    "offsetSTD": "+04:00"
+    "offsetSTD": "+04:00",
+    "tzNameSTD": "+04"
   },
   {
     "tz": "Atlantic/Azores",
     "offsetSTD": "-01:00",
-    "offsetDST": "+00:00"
+    "offsetDST": "+00:00",
+    "tzNameSTD": "-01",
+    "tzNameDST": "+00"
   },
   {
     "tz": "Atlantic/Bermuda",
@@ -1841,7 +1986,8 @@
   },
   {
     "tz": "Atlantic/Cape_Verde",
-    "offsetSTD": "-01:00"
+    "offsetSTD": "-01:00",
+    "tzNameSTD": "-01"
   },
   {
     "tz": "Atlantic/Faeroe",
@@ -1881,7 +2027,8 @@
   },
   {
     "tz": "Atlantic/South_Georgia",
-    "offsetSTD": "-02:00"
+    "offsetSTD": "-02:00",
+    "tzNameSTD": "-02"
   },
   {
     "tz": "Atlantic/St_Helena",
@@ -1891,7 +2038,8 @@
   },
   {
     "tz": "Atlantic/Stanley",
-    "offsetSTD": "-03:00"
+    "offsetSTD": "-03:00",
+    "tzNameSTD": "-03"
   },
   {
     "tz": "Australia/ACT",
@@ -1943,7 +2091,8 @@
   },
   {
     "tz": "Australia/Eucla",
-    "offsetSTD": "+08:45"
+    "offsetSTD": "+08:45",
+    "tzNameSTD": "+0845"
   },
   {
     "tz": "Australia/Hobart",
@@ -1956,6 +2105,8 @@
     "tz": "Australia/LHI",
     "offsetSTD": "+10:30",
     "offsetDST": "+11:00",
+    "tzNameSTD": "+1030",
+    "tzNameDST": "+11",
     "linkTo": "Australia/Lord_Howe"
   },
   {
@@ -1966,7 +2117,9 @@
   {
     "tz": "Australia/Lord_Howe",
     "offsetSTD": "+10:30",
-    "offsetDST": "+11:00"
+    "offsetDST": "+11:00",
+    "tzNameSTD": "+1030",
+    "tzNameDST": "+11"
   },
   {
     "tz": "Australia/Melbourne",
@@ -2048,21 +2201,25 @@
   {
     "tz": "Brazil/Acre",
     "offsetSTD": "-05:00",
+    "tzNameSTD": "-05",
     "linkTo": "America/Rio_Branco"
   },
   {
     "tz": "Brazil/DeNoronha",
     "offsetSTD": "-02:00",
+    "tzNameSTD": "-02",
     "linkTo": "America/Noronha"
   },
   {
     "tz": "Brazil/East",
     "offsetSTD": "-03:00",
+    "tzNameSTD": "-03",
     "linkTo": "America/Sao_Paulo"
   },
   {
     "tz": "Brazil/West",
     "offsetSTD": "-04:00",
+    "tzNameSTD": "-04",
     "linkTo": "America/Manaus"
   },
   {
@@ -2137,12 +2294,16 @@
     "tz": "Chile/Continental",
     "offsetSTD": "-04:00",
     "offsetDST": "-03:00",
+    "tzNameSTD": "-04",
+    "tzNameDST": "-03",
     "linkTo": "America/Santiago"
   },
   {
     "tz": "Chile/EasterIsland",
     "offsetSTD": "-06:00",
     "offsetDST": "-05:00",
+    "tzNameSTD": "-06",
+    "tzNameDST": "-05",
     "linkTo": "Pacific/Easter"
   },
   {
@@ -2211,61 +2372,73 @@
   {
     "tz": "Etc/GMT+1",
     "offsetSTD": "-01:00",
+    "tzNameSTD": "-01",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT+10",
     "offsetSTD": "-10:00",
+    "tzNameSTD": "-10",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT+11",
     "offsetSTD": "-11:00",
+    "tzNameSTD": "-11",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT+12",
     "offsetSTD": "-12:00",
+    "tzNameSTD": "-12",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT+2",
     "offsetSTD": "-02:00",
+    "tzNameSTD": "-02",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT+3",
     "offsetSTD": "-03:00",
+    "tzNameSTD": "-03",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT+4",
     "offsetSTD": "-04:00",
+    "tzNameSTD": "-04",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT+5",
     "offsetSTD": "-05:00",
+    "tzNameSTD": "-05",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT+6",
     "offsetSTD": "-06:00",
+    "tzNameSTD": "-06",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT+7",
     "offsetSTD": "-07:00",
+    "tzNameSTD": "-07",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT+8",
     "offsetSTD": "-08:00",
+    "tzNameSTD": "-08",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT+9",
     "offsetSTD": "-09:00",
+    "tzNameSTD": "-09",
     "linkTo": "Etc area description"
   },
   {
@@ -2277,71 +2450,85 @@
   {
     "tz": "Etc/GMT-1",
     "offsetSTD": "+01:00",
+    "tzNameSTD": "+01",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT-10",
     "offsetSTD": "+10:00",
+    "tzNameSTD": "+10",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT-11",
     "offsetSTD": "+11:00",
+    "tzNameSTD": "+11",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT-12",
     "offsetSTD": "+12:00",
+    "tzNameSTD": "+12",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT-13",
     "offsetSTD": "+13:00",
+    "tzNameSTD": "+13",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT-14",
     "offsetSTD": "+14:00",
+    "tzNameSTD": "+14",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT-2",
     "offsetSTD": "+02:00",
+    "tzNameSTD": "+02",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT-3",
     "offsetSTD": "+03:00",
+    "tzNameSTD": "+03",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT-4",
     "offsetSTD": "+04:00",
+    "tzNameSTD": "+04",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT-5",
     "offsetSTD": "+05:00",
+    "tzNameSTD": "+05",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT-6",
     "offsetSTD": "+06:00",
+    "tzNameSTD": "+06",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT-7",
     "offsetSTD": "+07:00",
+    "tzNameSTD": "+07",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT-8",
     "offsetSTD": "+08:00",
+    "tzNameSTD": "+08",
     "linkTo": "Etc area description"
   },
   {
     "tz": "Etc/GMT-9",
     "offsetSTD": "+09:00",
+    "tzNameSTD": "+09",
     "linkTo": "Etc area description"
   },
   {
@@ -2396,7 +2583,8 @@
   },
   {
     "tz": "Europe/Astrakhan",
-    "offsetSTD": "+04:00"
+    "offsetSTD": "+04:00",
+    "tzNameSTD": "+04"
   },
   {
     "tz": "Europe/Athens",
@@ -2520,7 +2708,8 @@
   },
   {
     "tz": "Europe/Istanbul",
-    "offsetSTD": "+03:00"
+    "offsetSTD": "+03:00",
+    "tzNameSTD": "+03"
   },
   {
     "tz": "Europe/Jersey",
@@ -2545,7 +2734,8 @@
   },
   {
     "tz": "Europe/Kirov",
-    "offsetSTD": "+03:00"
+    "offsetSTD": "+03:00",
+    "tzNameSTD": "+03"
   },
   {
     "tz": "Europe/Kyiv",
@@ -2608,7 +2798,8 @@
   },
   {
     "tz": "Europe/Minsk",
-    "offsetSTD": "+03:00"
+    "offsetSTD": "+03:00",
+    "tzNameSTD": "+03"
   },
   {
     "tz": "Europe/Monaco",
@@ -2677,7 +2868,8 @@
   },
   {
     "tz": "Europe/Samara",
-    "offsetSTD": "+04:00"
+    "offsetSTD": "+04:00",
+    "tzNameSTD": "+04"
   },
   {
     "tz": "Europe/San_Marino",
@@ -2697,7 +2889,8 @@
   },
   {
     "tz": "Europe/Saratov",
-    "offsetSTD": "+04:00"
+    "offsetSTD": "+04:00",
+    "tzNameSTD": "+04"
   },
   {
     "tz": "Europe/Simferopol",
@@ -2752,7 +2945,8 @@
   },
   {
     "tz": "Europe/Ulyanovsk",
-    "offsetSTD": "+04:00"
+    "offsetSTD": "+04:00",
+    "tzNameSTD": "+04"
   },
   {
     "tz": "Europe/Uzhgorod",
@@ -2793,7 +2987,8 @@
   },
   {
     "tz": "Europe/Volgograd",
-    "offsetSTD": "+03:00"
+    "offsetSTD": "+03:00",
+    "tzNameSTD": "+03"
   },
   {
     "tz": "Europe/Warsaw",
@@ -2826,7 +3021,8 @@
   },
   {
     "tz": "Factory",
-    "offsetSTD": "+00:00"
+    "offsetSTD": "+00:00",
+    "tzNameSTD": "-00"
   },
   {
     "tz": "GB",
@@ -2900,16 +3096,19 @@
   },
   {
     "tz": "Indian/Chagos",
-    "offsetSTD": "+06:00"
+    "offsetSTD": "+06:00",
+    "tzNameSTD": "+06"
   },
   {
     "tz": "Indian/Christmas",
     "offsetSTD": "+07:00",
+    "tzNameSTD": "+07",
     "linkTo": "Asia/Bangkok"
   },
   {
     "tz": "Indian/Cocos",
     "offsetSTD": "+06:30",
+    "tzNameSTD": "+0630",
     "linkTo": "Asia/Yangon"
   },
   {
@@ -2921,20 +3120,24 @@
   {
     "tz": "Indian/Kerguelen",
     "offsetSTD": "+05:00",
+    "tzNameSTD": "+05",
     "linkTo": "Indian/Maldives"
   },
   {
     "tz": "Indian/Mahe",
     "offsetSTD": "+04:00",
+    "tzNameSTD": "+04",
     "linkTo": "Asia/Dubai"
   },
   {
     "tz": "Indian/Maldives",
-    "offsetSTD": "+05:00"
+    "offsetSTD": "+05:00",
+    "tzNameSTD": "+05"
   },
   {
     "tz": "Indian/Mauritius",
-    "offsetSTD": "+04:00"
+    "offsetSTD": "+04:00",
+    "tzNameSTD": "+04"
   },
   {
     "tz": "Indian/Mayotte",
@@ -2945,12 +3148,15 @@
   {
     "tz": "Indian/Reunion",
     "offsetSTD": "+04:00",
+    "tzNameSTD": "+04",
     "linkTo": "Asia/Dubai"
   },
   {
     "tz": "Iran",
     "offsetSTD": "+03:30",
     "offsetDST": "+04:30",
+    "tzNameSTD": "+0330",
+    "tzNameDST": "+0430",
     "linkTo": "Asia/Tehran"
   },
   {
@@ -2976,6 +3182,7 @@
   {
     "tz": "Kwajalein",
     "offsetSTD": "+12:00",
+    "tzNameSTD": "+12",
     "linkTo": "Pacific/Kwajalein"
   },
   {
@@ -3050,11 +3257,14 @@
     "tz": "NZ-CHAT",
     "offsetSTD": "+12:45",
     "offsetDST": "+13:45",
+    "tzNameSTD": "+1245",
+    "tzNameDST": "+1345",
     "linkTo": "Pacific/Chatham"
   },
   {
     "tz": "Pacific/Apia",
-    "offsetSTD": "+13:00"
+    "offsetSTD": "+13:00",
+    "tzNameSTD": "+13"
   },
   {
     "tz": "Pacific/Auckland",
@@ -3065,57 +3275,72 @@
   },
   {
     "tz": "Pacific/Bougainville",
-    "offsetSTD": "+11:00"
+    "offsetSTD": "+11:00",
+    "tzNameSTD": "+11"
   },
   {
     "tz": "Pacific/Chatham",
     "offsetSTD": "+12:45",
-    "offsetDST": "+13:45"
+    "offsetDST": "+13:45",
+    "tzNameSTD": "+1245",
+    "tzNameDST": "+1345"
   },
   {
     "tz": "Pacific/Chuuk",
     "offsetSTD": "+10:00",
+    "tzNameSTD": "+10",
     "linkTo": "Pacific/Port_Moresby"
   },
   {
     "tz": "Pacific/Easter",
     "offsetSTD": "-06:00",
-    "offsetDST": "-05:00"
+    "offsetDST": "-05:00",
+    "tzNameSTD": "-06",
+    "tzNameDST": "-05"
   },
   {
     "tz": "Pacific/Efate",
-    "offsetSTD": "+11:00"
+    "offsetSTD": "+11:00",
+    "tzNameSTD": "+11"
   },
   {
     "tz": "Pacific/Enderbury",
     "offsetSTD": "+13:00",
+    "tzNameSTD": "+13",
     "linkTo": "Pacific/Kanton"
   },
   {
     "tz": "Pacific/Fakaofo",
-    "offsetSTD": "+13:00"
+    "offsetSTD": "+13:00",
+    "tzNameSTD": "+13"
   },
   {
     "tz": "Pacific/Fiji",
     "offsetSTD": "+12:00",
-    "offsetDST": "+13:00"
+    "offsetDST": "+13:00",
+    "tzNameSTD": "+12",
+    "tzNameDST": "+13"
   },
   {
     "tz": "Pacific/Funafuti",
     "offsetSTD": "+12:00",
+    "tzNameSTD": "+12",
     "linkTo": "Pacific/Tarawa"
   },
   {
     "tz": "Pacific/Galapagos",
-    "offsetSTD": "-06:00"
+    "offsetSTD": "-06:00",
+    "tzNameSTD": "-06"
   },
   {
     "tz": "Pacific/Gambier",
-    "offsetSTD": "-09:00"
+    "offsetSTD": "-09:00",
+    "tzNameSTD": "-09"
   },
   {
     "tz": "Pacific/Guadalcanal",
-    "offsetSTD": "+11:00"
+    "offsetSTD": "+11:00",
+    "tzNameSTD": "+11"
   },
   {
     "tz": "Pacific/Guam",
@@ -3135,28 +3360,34 @@
   },
   {
     "tz": "Pacific/Kanton",
-    "offsetSTD": "+13:00"
+    "offsetSTD": "+13:00",
+    "tzNameSTD": "+13"
   },
   {
     "tz": "Pacific/Kiritimati",
-    "offsetSTD": "+14:00"
+    "offsetSTD": "+14:00",
+    "tzNameSTD": "+14"
   },
   {
     "tz": "Pacific/Kosrae",
-    "offsetSTD": "+11:00"
+    "offsetSTD": "+11:00",
+    "tzNameSTD": "+11"
   },
   {
     "tz": "Pacific/Kwajalein",
-    "offsetSTD": "+12:00"
+    "offsetSTD": "+12:00",
+    "tzNameSTD": "+12"
   },
   {
     "tz": "Pacific/Majuro",
     "offsetSTD": "+12:00",
+    "tzNameSTD": "+12",
     "linkTo": "Pacific/Tarawa"
   },
   {
     "tz": "Pacific/Marquesas",
-    "offsetSTD": "-09:30"
+    "offsetSTD": "-09:30",
+    "tzNameSTD": "-0930"
   },
   {
     "tz": "Pacific/Midway",
@@ -3166,20 +3397,25 @@
   },
   {
     "tz": "Pacific/Nauru",
-    "offsetSTD": "+12:00"
+    "offsetSTD": "+12:00",
+    "tzNameSTD": "+12"
   },
   {
     "tz": "Pacific/Niue",
-    "offsetSTD": "-11:00"
+    "offsetSTD": "-11:00",
+    "tzNameSTD": "-11"
   },
   {
     "tz": "Pacific/Norfolk",
     "offsetSTD": "+11:00",
-    "offsetDST": "+12:00"
+    "offsetDST": "+12:00",
+    "tzNameSTD": "+11",
+    "tzNameDST": "+12"
   },
   {
     "tz": "Pacific/Noumea",
-    "offsetSTD": "+11:00"
+    "offsetSTD": "+11:00",
+    "tzNameSTD": "+11"
   },
   {
     "tz": "Pacific/Pago_Pago",
@@ -3188,29 +3424,35 @@
   },
   {
     "tz": "Pacific/Palau",
-    "offsetSTD": "+09:00"
+    "offsetSTD": "+09:00",
+    "tzNameSTD": "+09"
   },
   {
     "tz": "Pacific/Pitcairn",
-    "offsetSTD": "-08:00"
+    "offsetSTD": "-08:00",
+    "tzNameSTD": "-08"
   },
   {
     "tz": "Pacific/Pohnpei",
     "offsetSTD": "+11:00",
+    "tzNameSTD": "+11",
     "linkTo": "Pacific/Guadalcanal"
   },
   {
     "tz": "Pacific/Ponape",
     "offsetSTD": "+11:00",
+    "tzNameSTD": "+11",
     "linkTo": "Pacific/Guadalcanal"
   },
   {
     "tz": "Pacific/Port_Moresby",
-    "offsetSTD": "+10:00"
+    "offsetSTD": "+10:00",
+    "tzNameSTD": "+10"
   },
   {
     "tz": "Pacific/Rarotonga",
-    "offsetSTD": "-10:00"
+    "offsetSTD": "-10:00",
+    "tzNameSTD": "-10"
   },
   {
     "tz": "Pacific/Saipan",
@@ -3226,34 +3468,41 @@
   },
   {
     "tz": "Pacific/Tahiti",
-    "offsetSTD": "-10:00"
+    "offsetSTD": "-10:00",
+    "tzNameSTD": "-10"
   },
   {
     "tz": "Pacific/Tarawa",
-    "offsetSTD": "+12:00"
+    "offsetSTD": "+12:00",
+    "tzNameSTD": "+12"
   },
   {
     "tz": "Pacific/Tongatapu",
-    "offsetSTD": "+13:00"
+    "offsetSTD": "+13:00",
+    "tzNameSTD": "+13"
   },
   {
     "tz": "Pacific/Truk",
     "offsetSTD": "+10:00",
+    "tzNameSTD": "+10",
     "linkTo": "Pacific/Port_Moresby"
   },
   {
     "tz": "Pacific/Wake",
     "offsetSTD": "+12:00",
+    "tzNameSTD": "+12",
     "linkTo": "Pacific/Tarawa"
   },
   {
     "tz": "Pacific/Wallis",
     "offsetSTD": "+12:00",
+    "tzNameSTD": "+12",
     "linkTo": "Pacific/Tarawa"
   },
   {
     "tz": "Pacific/Yap",
     "offsetSTD": "+10:00",
+    "tzNameSTD": "+10",
     "linkTo": "Pacific/Port_Moresby"
   },
   {
@@ -3301,11 +3550,13 @@
   {
     "tz": "Singapore",
     "offsetSTD": "+08:00",
+    "tzNameSTD": "+08",
     "linkTo": "Asia/Singapore"
   },
   {
     "tz": "Turkey",
     "offsetSTD": "+03:00",
+    "tzNameSTD": "+03",
     "linkTo": "Europe/Istanbul"
   },
   {
