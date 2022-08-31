@@ -8,6 +8,7 @@ Data extracted from [https://en.wikipedia.org/wiki/List_of_tz_database_time_zone
 The fields in the array are as follows:
 
 * `tz`: contains the time zone code. *Always present*.
+* `label`: *Only present in no deprecated time zones*. Time zone Friendly name that can be shown to the user.
 * `offsetSTD`: contains the offset from UTC for Standard Time. *Always present*.
 * `offsetDST`: contains the offset from UTC for Daylight Saving Time. *Only present if there is a Daylight Saving Time for that time zone, otherwise you can asume its value it's the same as `offsetSTD`*.
 * `tzNameSTD`: contains the time zone name for Standard Time. *Always present*.
@@ -37,6 +38,7 @@ These are examples of some entries of the time zone list:
 ```json
 {
   "tz": "America/Argentina/Buenos_Aires",
+  "label": "Argentina Standard Time - Buenos Aires",
   "offsetSTD": "-03:00",
   "tzNameSTD": "-03"
 },
@@ -50,6 +52,7 @@ These are examples of some entries of the time zone list:
 },
 {
   "tz": "America/New_York",
+  "label": "Eastern Time - New York",
   "offsetSTD": "-05:00",
   "offsetDST": "-04:00",
   "tzNameSTD": "Eastern Standard Time",
@@ -57,6 +60,7 @@ These are examples of some entries of the time zone list:
 },
 {
   "tz": "America/Toronto",
+  "label": "Eastern Time - Toronto",
   "offsetSTD": "-05:00",
   "offsetDST": "-04:00",
   "tzNameSTD": "Eastern Standard Time",
@@ -64,6 +68,7 @@ These are examples of some entries of the time zone list:
 },
 {
   "tz": "Europe/Paris",
+  "label": "Central European Time - Paris",
   "offsetSTD": "+01:00",
   "offsetDST": "+02:00",
   "tzNameSTD": "Central European Time",
@@ -71,6 +76,7 @@ These are examples of some entries of the time zone list:
 },
 {
   "tz": "Asia/Tokyo",
+  "label": "Japan Standard Time",
   "offsetSTD": "+09:00",
   "tzNameSTD": "Japanese Standard Time"
 },
