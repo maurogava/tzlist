@@ -3024,6 +3024,7 @@
   },
   {
     "tz": "Europe/Kyiv",
+    "label": "Eastern European Time - Kyiv",
     "offsetSTD": "+02:00",
     "offsetDST": "+03:00",
     "tzNameSTD": "Eastern European Time",
